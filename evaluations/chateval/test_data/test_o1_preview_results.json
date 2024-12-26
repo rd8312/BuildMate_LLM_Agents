@@ -1,0 +1,2222 @@
+[
+    {
+        "question_id": 1,
+        "question": "預算約50000元，想要一台能高效運行AutoCAD進行工程繪圖與設計的電腦，特別需要多核心CPU來加速運算。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "Gigabyte B550 AORUS ELITE",
+                    "price": "4800"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB511",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "16000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 3060",
+                    "price": "12000"
+                },
+                "Memory": {
+                    "name": "Corsair Vengeance LPX DDR4 3200MHz 32GB (16GB x2)",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+                    "price": "4800"
+                },
+                "Power": {
+                    "name": "Corsair CX650M 650W Bronze",
+                    "price": "2300"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 LED Turbo CPU Cooler",
+                    "price": "1200"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS ELITE",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢 H500 RGB",
+                    "price": "1999"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "8500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury DDR4",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "威剛 SD620 SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "華碩 ROG Strix 750W",
+                    "price": "2900"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze",
+                    "price": "950"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 2,
+        "question": "預算大概35000元，需要一台能流暢執行Photoshop圖像編輯的電腦，GPU加速很重要。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "**華碩 ASUS TUF Gaming B550-PLUS**",
+                    "price": "4500"
+                },
+                "Case": {
+                    "name": "**酷碼 Cooler Master MasterBox MB511**",
+                    "price": "1800"
+                },
+                "CPU": {
+                    "name": "**AMD Ryzen 7 5700X**",
+                    "price": "7750"
+                },
+                "GPU": {
+                    "name": "**技嘉 GIGABYTE GeForce RTX 3060 Gaming OC 12G**",
+                    "price": "10800"
+                },
+                "Memory": {
+                    "name": "**芝奇 G.SKILL Ripjaws V 32GB (16GB x2) DDR4 3200MHz**",
+                    "price": "3000"
+                },
+                "Storage": {
+                    "name": "**三星 Samsung 970 EVO Plus 1TB M.2 NVMe SSD**",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "**海盜船 Corsair RM650x 650W 80+ Gold 全模組電源供應器**",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "**酷碼 Cooler Master Hyper 212 EVO CPU 散熱器**",
+                    "price": "1200"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 ROG Strix B450-F Gaming",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢 HF120",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "8500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 5000MHz",
+                    "price": "4800"
+                },
+                "Storage": {
+                    "name": "三星 T7 Portable SSD",
+                    "price": "2999"
+                },
+                "Power": {
+                    "name": "海韻 Power X200",
+                    "price": "1899"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze Fan",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 3,
+        "question": "預算約30000元，希望有台能穩定跑Illustrator的電腦，CPU和內存要足夠強大，處理大型向量檔不會卡。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI PRO B660M-A WIFI DDR4",
+                    "price": "4300"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB511 ARGB",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "Intel Core i5-12400F",
+                    "price": "4500"
+                },
+                "GPU": {
+                    "name": "MSI GeForce GTX 1660 SUPER VENTUS XS OC",
+                    "price": "7500"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws V 32GB (2 x 16GB) DDR4 3200MHz",
+                    "price": "3500"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe M.2 SSD",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "Corsair CX650M 650W 80+ Bronze Semi-Modular PSU",
+                    "price": "2500"
+                },
+                "Fan": {
+                    "name": "Cooler Master MasterFan MF120R ARGB 3-in-1",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2500"
+                },
+                "Case": {
+                    "name": "酷碼 Cooler Master MasterBox Q300L",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "技嘉 RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 FURY 系列記憶體",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro",
+                    "price": "2990"
+                },
+                "Power": {
+                    "name": "華碩 Power Pro 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "威剛 X-Series風扇",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 4,
+        "question": "我有約60000元預算，希望組一台能流暢剪接4K影片的電腦，用Premiere Pro時需強大GPU和大量記憶體。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "华硕 TUF Gaming X570-Plus",
+                    "price": "6400"
+                },
+                "Case": {
+                    "name": "NZXT H510 中塔机壳",
+                    "price": "2240"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "12800"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070",
+                    "price": "19200"
+                },
+                "Memory": {
+                    "name": "芝奇 Ripjaws V 64GB (2 x 32GB) DDR4-3200MHz",
+                    "price": "6400"
+                },
+                "Storage": {
+                    "name": "三星 970 EVO Plus 2TB NVMe M.2 SSD",
+                    "price": "5440"
+                },
+                "Power": {
+                    "name": "海韵 Focus GX-750W 80+ Gold 电源供应器",
+                    "price": "3840"
+                },
+                "Fan": {
+                    "name": "九州风神 玄冰400 CPU 散热器",
+                    "price": "960"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 ROG Strix B550-F Gaming",
+                    "price": "2500"
+                },
+                "Case": {
+                    "name": "全漢 FSP CMT230",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "10000"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "三星970 EVO Plus SSD",
+                    "price": "3400"
+                },
+                "Power": {
+                    "name": "海韻Power 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze 120",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 5,
+        "question": "預算約65000元，想要一台能順暢處理After Effects動態特效的電腦，GPU和大容量內存非常關鍵。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "华硕 TUF GAMING X570-PRO (Wi-Fi)",
+                    "price": "6500"
+                },
+                "Case": {
+                    "name": "NZXT H510 中塔机壳",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "13000"
+                },
+                "GPU": {
+                    "name": "华硕 TUF Gaming GeForce RTX 3080",
+                    "price": "25000"
+                },
+                "Memory": {
+                    "name": "芝奇 Ripjaws V DDR4-3200 64GB (32GB x2)",
+                    "price": "8000"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB M.2 NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韵 Seasonic Focus GX-750W 80+ Gold 全模组电源",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "酷冷至尊 Cooler Master Hyper 212 RGB Black Edition CPU散热器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1999"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "15800"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury 16GB DDR4",
+                    "price": "5800"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro SSD",
+                    "price": "3800"
+                },
+                "Power": {
+                    "name": "海韻 PowerX1",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "威剛 X-Fan 120",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 6,
+        "question": "預算50000元左右，需一台適合Blender 3D建模和GPU渲染的電腦，能加速NVIDIA CUDA運算。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "**華碩 ASUS PRIME B660-PLUS D4 主機板**",
+                    "price": "5000"
+                },
+                "Case": {
+                    "name": "**NZXT H510 機殼**",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "**Intel Core i5-13400F 處理器**",
+                    "price": "7500"
+                },
+                "GPU": {
+                    "name": "**華碩 ASUS Dual GeForce RTX 4070 12GB 顯示卡**",
+                    "price": "20000"
+                },
+                "Memory": {
+                    "name": "**美商海盜船 Corsair Vengeance LPX DDR4 3200MHz 32GB (16GB x2) 記憶體**",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "**三星 Samsung 970 EVO Plus M.2 NVMe SSD 2TB 固態硬碟**",
+                    "price": "5500"
+                },
+                "Power": {
+                    "name": "**海韻 Seasonic Focus GX-750W 80+ Gold 全模組電源供應器**",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "**超頻三 DeepCool GAMMAXX GTE V2 CPU 散熱器**",
+                    "price": "1200"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 ROG Strix B550-F Gaming",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢H500",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "8500"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列",
+                    "price": "5800"
+                },
+                "Storage": {
+                    "name": "威剛 UV500 1TB SSD",
+                    "price": "2999"
+                },
+                "Power": {
+                    "name": "海韻 Power 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "聯力 CoolMaster 120",
+                    "price": "480"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 7,
+        "question": "預算70000元，想組一台能高效運行3ds Max的工作站，要求對GPU和CPU性能都有極高規格。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS ROG STRIX X570-E GAMING",
+                    "price": "8000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterCase H500",
+                    "price": "3500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "15400"
+                },
+                "GPU": {
+                    "name": "ASUS TUF Gaming GeForce RTX 3080",
+                    "price": "19600"
+                },
+                "Memory": {
+                    "name": "G.Skill Trident Z Neo DDR4 3600MHz 64GB (16GB x4)",
+                    "price": "10000"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+                    "price": "4500"
+                },
+                "Power": {
+                    "name": "Seasonic Focus GX-850 Gold 850W",
+                    "price": "5000"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 高效能風冷散熱器",
+                    "price": "3000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2499"
+                },
+                "Case": {
+                    "name": "酷碼 X3 RGB機殼",
+                    "price": "1499"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "8000"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 16GB DDR4",
+                    "price": "4800"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro SSD",
+                    "price": "2800"
+                },
+                "Power": {
+                    "name": "華碩 Power Z1500",
+                    "price": "1499"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze 120",
+                    "price": "499"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 8,
+        "question": "大約75000元預算，需要一台能在Maya中順暢做3D建模和專業動畫渲染的電腦。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI Pro B650-P WIFI",
+                    "price": "7000"
+                },
+                "Case": {
+                    "name": "Fractal Design Meshify C",
+                    "price": "3000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900X",
+                    "price": "15000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070",
+                    "price": "21000"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws S5 DDR5 64GB (32GB x2) 6000MHz",
+                    "price": "10000"
+                },
+                "Storage": {
+                    "name": "Samsung 980 PRO 1TB NVMe SSD",
+                    "price": "2500"
+                },
+                "Power": {
+                    "name": "Corsair RM850x 850W 80+ Gold",
+                    "price": "4000"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 CPU散熱器",
+                    "price": "3000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 ROG Strix B550-F Gaming",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢H500 RGB電競機殼",
+                    "price": "1450"
+                },
+                "CPU": {
+                    "name": "Intel Core i7-12700K",
+                    "price": "11900"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "15500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻Power 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "聯力 PowerFan 500",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 9,
+        "question": "預算約45000元，需要一台能流暢使用ZBrush進行數位雕刻的電腦，要求大容量內存和高速儲存。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI B550 Tomahawk",
+                    "price": "3500"
+                },
+                "Case": {
+                    "name": "Deepcool Matrexx 50",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "14000"
+                },
+                "GPU": {
+                    "name": "Gigabyte GeForce RTX 3060 Gaming OC 12G",
+                    "price": "10000"
+                },
+                "Memory": {
+                    "name": "G.Skill Ripjaws V 64GB (2 x 32GB) DDR4 3200MHz",
+                    "price": "7500"
+                },
+                "Storage": {
+                    "name": "WD Black SN770 1TB NVMe SSD",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "Corsair RM650x 650W 80+ Gold Fully Modular",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 RGB Black Edition CPU Cooler",
+                    "price": "1500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢精英系列Case",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600",
+                    "price": "12000"
+                },
+                "GPU": {
+                    "name": "技嘉 RTX 3070",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列",
+                    "price": "3999"
+                },
+                "Storage": {
+                    "name": "三星 970 EVO Plus SSD",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "海韻Power X2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "聯力 UltraCool Fan",
+                    "price": "950"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 10,
+        "question": "預算約60000元，想要一台能跑SolidWorks工程設計軟體的工作站，多核心CPU和中高階GPU不可少。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI MAG B650 Tomahawk WiFi",
+                    "price": "8000"
+                },
+                "Case": {
+                    "name": "Cooler Master 酷冷至尊 MasterBox MB511 ARGB",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900X",
+                    "price": "12000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070",
+                    "price": "20000"
+                },
+                "Memory": {
+                    "name": "G.Skill Ripjaws S5 DDR5-6000 16GB x2（共32GB）",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "Samsung 980 Pro 1TB NVMe M.2 SSD",
+                    "price": "4500"
+                },
+                "Power": {
+                    "name": "SeaSonic 海韻 Focus GX-750 750W 80 Plus Gold",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 CPU散熱器",
+                    "price": "3000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "CoolerMaster MasterBox Q300L",
+                    "price": "1499"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro M.2 NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻 PowerMax 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "聯力 L系列風扇",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 11,
+        "question": "有大約55000元預算，想買台能穩定跑Revit做建築設計與BIM建模的電腦，需要充裕內存和不錯的GPU。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming X570-PLUS 主機板",
+                    "price": "6000"
+                },
+                "Case": {
+                    "name": "Fractal Design Meshify C 機殼",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X3D 處理器",
+                    "price": "12000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 3060 Ti 顯示卡",
+                    "price": "15000"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws V 64GB (16GB x4) DDR4-3600 記憶體",
+                    "price": "8000"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "Seasonic Focus GX-750 Gold 750W 電源供應器",
+                    "price": "4000"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 CPU 散熱器",
+                    "price": "3500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS Elite",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼 CoolMaster X2000",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11000"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "18000"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix系列記憶體",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 XPG GAMMIX S70 SSD",
+                    "price": "3999"
+                },
+                "Power": {
+                    "name": "華碩 ROG Strix Power 3000",
+                    "price": "2999"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze Fan",
+                    "price": "950"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 12,
+        "question": "預算60000元左右，要一台能在DaVinci Resolve中流暢剪輯與調色的電腦，GPU加速效果很重要。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI MAG B650 Tomahawk WiFi",
+                    "price": "8000"
+                },
+                "Case": {
+                    "name": "Fractal Design Meshify C",
+                    "price": "3000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 7700X",
+                    "price": "13000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070 12GB",
+                    "price": "20000"
+                },
+                "Memory": {
+                    "name": "G.Skill Trident Z5 RGB 32GB (2x16GB) DDR5-6000MHz",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "Samsung 980 Pro 1TB NVMe SSD",
+                    "price": "4000"
+                },
+                "Power": {
+                    "name": "Seasonic Focus GX-750W 80+ Gold",
+                    "price": "4000"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 CPU Cooler",
+                    "price": "3000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢 FC5",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "Intel Core i5-12600K",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "金士頓 Fury 系列記憶體",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "威剛 SU800 SSD",
+                    "price": "2500"
+                },
+                "Power": {
+                    "name": "海韻 Power Pro 3000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 13,
+        "question": "預算50000元左右，需要能跑Vegas Pro的電腦，多核CPU和高效能GPU是必須，以加快影片編輯。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming X670-PLUS",
+                    "price": "8000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB511 RGB",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900X",
+                    "price": "12000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 3060 Ti",
+                    "price": "12000"
+                },
+                "Memory": {
+                    "name": "G.SKILL Trident Z5 RGB DDR5 32GB (16GB x2)",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "Samsung 980 PRO 1TB NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "Corsair RM750x 750W 80 PLUS Gold",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "Noctua NH-U12A CPU散熱器",
+                    "price": "3000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS Elite",
+                    "price": "2500"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1490"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X",
+                    "price": "10500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 16GB DDR4",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro",
+                    "price": "3299"
+                },
+                "Power": {
+                    "name": "海韻 PowerX2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "威剛 Xtreme Fan 120",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 14,
+        "question": "預算約65000元，希望組一台適合Cinema 4D動畫與渲染的電腦，GPU和內存絕不能馬虎。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming X570-Plus (Wi-Fi)",
+                    "price": "6200"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB511 RGB",
+                    "price": "3000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 5900X",
+                    "price": "12500"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070 Ti",
+                    "price": "25000"
+                },
+                "Memory": {
+                    "name": "Corsair Vengeance LPX 64GB (2x32GB) DDR4 3200MHz",
+                    "price": "8500"
+                },
+                "Storage": {
+                    "name": "Samsung 980 Pro 1TB NVMe SSD",
+                    "price": "4800"
+                },
+                "Power": {
+                    "name": "Corsair RM750x 750W 80+ Gold 全模組電源供應器",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 CPU 散熱器",
+                    "price": "3500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢 HF系列機殼",
+                    "price": "1200"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X",
+                    "price": "11000"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "17000"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix系列記憶體",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "三星970 EVO Plus NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻PowerPro 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "威剛 XFan Pro",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 15,
+        "question": "預算大約40000元，想組一台能執行MATLAB科學計算的電腦，多核心處理器與大內存很關鍵。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "**華碩 ASUS TUF Gaming X670-PLUS WiFi**",
+                    "price": "8000"
+                },
+                "Case": {
+                    "name": "**酷媽 Cooler Master MasterBox MB511 ARGB**",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "**AMD Ryzen 9 7900X**",
+                    "price": "13500"
+                },
+                "GPU": {
+                    "name": "**微星 MSI GeForce GTX 1650 4GB**",
+                    "price": "4000"
+                },
+                "Memory": {
+                    "name": "**芝奇 G.Skill Ripjaws S5 DDR5-6000 32GB (16GB x2)**",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "**三星 Samsung 980 Pro 1TB M.2 NVMe SSD**",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "**海韻 Seasonic Focus GX-650W 80+ Gold 全模組化**",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "**酷媽 Cooler Master Hyper 212 黑色版 CPU 散熱器**",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢H500",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "9500"
+                },
+                "GPU": {
+                    "name": "技嘉 GeForce RTX 3060 Ti",
+                    "price": "14900"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix系列",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "三星 T7 Portable SSD",
+                    "price": "3299"
+                },
+                "Power": {
+                    "name": "華碩ROG Strix Power 600",
+                    "price": "2400"
+                },
+                "Fan": {
+                    "name": "聯力 超靜音120mm Fan",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 16,
+        "question": "預算80000元，我需要一台能順暢跑Unreal Engine的開發機，高效能GPU和多核CPU都要有。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF GAMING X670E-PLUS WIFI",
+                    "price": "9000"
+                },
+                "Case": {
+                    "name": "NZXT H510",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900X",
+                    "price": "13000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070 Ti",
+                    "price": "26000"
+                },
+                "Memory": {
+                    "name": "G.SKILL Trident Z5 RGB DDR5 32GB (2 x 16GB) 6000MHz",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus NVMe M.2 2TB SSD",
+                    "price": "7500"
+                },
+                "Power": {
+                    "name": "Corsair RM850x 850W 80+ Gold",
+                    "price": "4500"
+                },
+                "Fan": {
+                    "name": "Corsair iCUE H100i RGB PRO XT 水冷散熱器",
+                    "price": "4500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼K1機殼",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "7500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix系列",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro SSD",
+                    "price": "2999"
+                },
+                "Power": {
+                    "name": "海韻Power 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze 120mm Fan",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 17,
+        "question": "預算約50000元，希望有一台能在高畫質下跑Cyberpunk 2077的電腦，需要強悍的GPU（如RTX系列）。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "**華碩 ASUS TUF Gaming B660M-PLUS WIFI D4**",
+                    "price": "5000"
+                },
+                "Case": {
+                    "name": "**酷冷至尊 Cooler Master MasterBox MB511**",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "**Intel 英特爾 Core i7-12700K**",
+                    "price": "11000"
+                },
+                "GPU": {
+                    "name": "**華碩 ASUS GeForce RTX 3070 DUAL**",
+                    "price": "18000"
+                },
+                "Memory": {
+                    "name": "**G.SKILL 芝奇 Ripjaws V 32GB (16GB x2) DDR4 3200MHz**",
+                    "price": "5000"
+                },
+                "Storage": {
+                    "name": "**三星 Samsung 970 EVO Plus 1TB NVMe SSD**",
+                    "price": "4000"
+                },
+                "Power": {
+                    "name": "**海盜船 Corsair RM650x 650W 80+ Gold 全模組電源供應器**",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "**追加機殼風扇（如酷冷至尊 SickleFlow 120mm x2）**",
+                    "price": "500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS ELITE",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼 CoolMaster X1",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "9000"
+                },
+                "GPU": {
+                    "name": "技嘉 RTX 3060 Ti GAMING OC",
+                    "price": "14900"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列記憶體",
+                    "price": "4800"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro SSD",
+                    "price": "2999"
+                },
+                "Power": {
+                    "name": "華碩 Power 2000PRO",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "Lian Li UNI Fan SL120",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 18,
+        "question": "預算60000元左右，想組一台流暢運行Red Dead Redemption 2的電腦，GPU、CPU和內存都要高規。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI PRO B650M-A WIFI",
+                    "price": "4650"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB511 ARGB",
+                    "price": "2170"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900X",
+                    "price": "13950"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070 Ti",
+                    "price": "24769"
+                },
+                "Memory": {
+                    "name": "Corsair Vengeance DDR5 32GB (2x16GB) 5600MHz",
+                    "price": "5580"
+                },
+                "Storage": {
+                    "name": "WD_BLACK SN770 1TB NVMe SSD",
+                    "price": "2790"
+                },
+                "Power": {
+                    "name": "EVGA SuperNOVA 750 G5 750W 80+ Gold",
+                    "price": "3410"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 RGB Black Edition",
+                    "price": "1860"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B450 AORUS Elite",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼 K1 Case",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "9000"
+                },
+                "GPU": {
+                    "name": "技嘉 GeForce RTX 3060 Ti Gaming OC",
+                    "price": "14900"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury系列內存",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "華碩 PowerBoost 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "威剛 XFan 120 Pro",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 19,
+        "question": "預算約40000元，我想要一台能長期流暢玩GTA V的主機，硬體規格要足以應對大型開放世界遊戲。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming B550-PLUS",
+                    "price": "4000"
+                },
+                "Case": {
+                    "name": "NZXT H510 中塔機殼",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "5500"
+                },
+                "GPU": {
+                    "name": "MSI GeForce RTX 3070 Ventus 2X",
+                    "price": "15000"
+                },
+                "Memory": {
+                    "name": "G.Skill Ripjaws V 32GB (16GBx2) DDR4-3600",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe SSD",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "Corsair RM650x 650W 80+ Gold 全模組電源供應器",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 Black Edition CPU 散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550M-Plus",
+                    "price": "2499"
+                },
+                "Case": {
+                    "name": "酷碼 CoolCase Pro",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "9500"
+                },
+                "GPU": {
+                    "name": "技嘉 RTX 3060 Ti GAMING OC",
+                    "price": "14900"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro SSD",
+                    "price": "3200"
+                },
+                "Power": {
+                    "name": "海韻 PowerMaster 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "威剛X系列風扇",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 20,
+        "question": "預算45000元，需要一台能在高畫質下跑Modern Warfare II的電腦，GPU性能非常重要。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "華碩 ASUS TUF Gaming B660-PLUS WIFI D4 主機板",
+                    "price": "5000"
+                },
+                "Case": {
+                    "name": "Cooler Master 酷碼 MasterBox TD500 Mesh 機殼",
+                    "price": "2500"
+                },
+                "CPU": {
+                    "name": "Intel 英特爾 Core i5-12400F 處理器",
+                    "price": "5000"
+                },
+                "GPU": {
+                    "name": "華碩 ASUS TUF Gaming GeForce RTX 3070 顯示卡",
+                    "price": "18000"
+                },
+                "Memory": {
+                    "name": "Kingston 金士頓 Fury Beast DDR4 3200MHz 16GB (8GB x2) 記憶體",
+                    "price": "2500"
+                },
+                "Storage": {
+                    "name": "Samsung 三星 970 EVO Plus 1TB M.2 NVMe SSD 固態硬碟",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "Seasonic 海韻 Focus GX-750 750W 80+ Gold 電源供應器",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "Cooler Master 酷碼 Hyper 212 LED Turbo CPU 散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "9000"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "15500"
+                },
+                "Memory": {
+                    "name": "金士頓 HyperX Fury 16GB DDR4",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro NVMe SSD",
+                    "price": "2990"
+                },
+                "Power": {
+                    "name": "海韻Power Pro 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "聯力 Ultra Silent Fan",
+                    "price": "499"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 21,
+        "question": "預算35000元，想組一台能高品質運行The Witcher 3的電腦，GPU和內存要足夠充裕。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS PRIME B660M-A D4",
+                    "price": "3500"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB311L ARGB",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "Intel Core i5-12400F",
+                    "price": "5000"
+                },
+                "GPU": {
+                    "name": "ASUS Dual GeForce RTX 3060 Ti 8GB",
+                    "price": "12000"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws V 32GB (16GB x2) DDR4 3200MHz",
+                    "price": "3500"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe M.2 SSD",
+                    "price": "5000"
+                },
+                "Power": {
+                    "name": "Corsair CX650M 650W 80+ Bronze 認證",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 CPU散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ventus 2X",
+                    "price": "17000"
+                },
+                "Memory": {
+                    "name": "金士頓 FURY Beast系列記憶體",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro 1TB SSD",
+                    "price": "3999"
+                },
+                "Power": {
+                    "name": "華碩 PowerMax 3000",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "威剛 Xtreme Fan系列",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 22,
+        "question": "預算40000元左右，需要一台可流暢跑Elden Ring的電腦，強大的GPU與多核心CPU很重要。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "**MSI MAG B550 Tomahawk**",
+                    "price": "4000"
+                },
+                "Case": {
+                    "name": "**NZXT H510**",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "**AMD Ryzen 7 5700X**",
+                    "price": "8000"
+                },
+                "GPU": {
+                    "name": "**MSI Radeon RX 6700 XT Gaming X**",
+                    "price": "14000"
+                },
+                "Memory": {
+                    "name": "**G.SKILL Ripjaws V 32GB（2 x 16GB）DDR4 3200MHz**",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "**Crucial P5 Plus 1TB PCIe 4.0 NVMe SSD**",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "**Corsair RM750x 750W 80 Plus Gold**",
+                    "price": "4000"
+                },
+                "Fan": {
+                    "name": "**be quiet! Pure Rock 2 CPU 散熱器**",
+                    "price": "2000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2900"
+                },
+                "Case": {
+                    "name": "全漢F360 RGB機殼",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X",
+                    "price": "10900"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 FURY Beast系列記憶體",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro SSD",
+                    "price": "2700"
+                },
+                "Power": {
+                    "name": "華碩 Power X200",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "威剛 Xtreme Fan 500",
+                    "price": "499"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 23,
+        "question": "預算25000元，希望有台能流暢玩Dota 2的電腦，CPU和GPU配置需均衡。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming B550M-Plus",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox Q300L",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "4500"
+                },
+                "GPU": {
+                    "name": "ASUS Dual Radeon RX 6650 XT OC 8GB",
+                    "price": "9000"
+                },
+                "Memory": {
+                    "name": "G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200",
+                    "price": "1800"
+                },
+                "Storage": {
+                    "name": "WD Blue SN550 1TB NVMe M.2 SSD",
+                    "price": "2500"
+                },
+                "Power": {
+                    "name": "Seasonic S12III 650W 80+ Bronze",
+                    "price": "2200"
+                },
+                "Fan": {
+                    "name": "Cooler Master SickleFlow 120mm",
+                    "price": "500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS Elite",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1999"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X",
+                    "price": "11000"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "15000"
+                },
+                "Memory": {
+                    "name": "金士頓 Fury 系列內存",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "三星970 EVO Plus M.2 NVMe SSD",
+                    "price": "3999"
+                },
+                "Power": {
+                    "name": "海韻 Power X3000",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze Fan 120",
+                    "price": "1000"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 24,
+        "question": "預算30000元，要一台適合玩CS2的電腦，最好能搭配高刷新率螢幕並有足夠GPU性能。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS 華碩 TUF Gaming B450M-PLUS II 主機板",
+                    "price": "2500"
+                },
+                "Case": {
+                    "name": "Cooler Master 酷碼 MasterBox MB311L 機殼",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5500 處理器",
+                    "price": "4000"
+                },
+                "GPU": {
+                    "name": "AMD Radeon RX 6650 XT 顯示卡",
+                    "price": "9500"
+                },
+                "Memory": {
+                    "name": "Kingston 金士頓 HyperX Fury 16GB (8GB x2) DDR4-3200 記憶體",
+                    "price": "2500"
+                },
+                "Storage": {
+                    "name": "Crucial 美光 P2 500GB NVMe M.2 SSD 固態硬碟",
+                    "price": "1500"
+                },
+                "Power": {
+                    "name": "Antec 安鈦克 NeoECO NE550C 550W 80+ Bronze 電源供應器",
+                    "price": "1500"
+                },
+                "Fan": {
+                    "name": "機殼自帶風扇",
+                    "price": "0"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS Elite",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼X1機殼",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "8500"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 3200MHz",
+                    "price": "4500"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻 PowerPro 2000",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "威剛 ARGB 120mm RGB Fan",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 25,
+        "question": "預算約50000元，需要一台能跑Unity遊戲開發的電腦，要有足以支撐即時3D預覽的強勁GPU。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "MSI B650-P Pro",
+                    "price": "4000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox NR600",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 7700X",
+                    "price": "12000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 4070",
+                    "price": "20000"
+                },
+                "Memory": {
+                    "name": "G.Skill Ripjaws DDR5-6000MHz 32GB (16GB x2)",
+                    "price": "5000"
+                },
+                "Storage": {
+                    "name": "WD Black SN770 1TB M.2 NVMe SSD",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "Seasonic Focus GX-650W 80+ Gold 全模組化電源供應器",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS ELITE",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "酷碼 KUMA-1500",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "9500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "17900"
+                },
+                "Memory": {
+                    "name": "金士頓 Fury Beast 16GB DDR4",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro M.2 NVMe SSD",
+                    "price": "3800"
+                },
+                "Power": {
+                    "name": "華碩Power Pro 2500",
+                    "price": "2500"
+                },
+                "Fan": {
+                    "name": "威剛 X系列冷卻風扇",
+                    "price": "999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 26,
+        "question": "預算約30000元，希望組一台能穩定執行Visual Studio開發環境的電腦，多核心CPU很有幫助。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming B550-PLUS (Wi-Fi)",
+                    "price": "5000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox NR600",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5700G",
+                    "price": "8000"
+                },
+                "GPU": {
+                    "name": "內建 Radeon Graphics（隨 CPU 附贈）",
+                    "price": "0"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws V 32GB (16GB x2) DDR4 3200MHz",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "Samsung 970 EVO Plus 1TB NVMe M.2 SSD",
+                    "price": "4000"
+                },
+                "Power": {
+                    "name": "Seasonic FOCUS GX-650W 80+ Gold 全模組化電源供應器",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "Cooler Master Hyper 212 EVO CPU 散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢H500",
+                    "price": "1999"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "15000"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix",
+                    "price": "5800"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro NVMe SSD",
+                    "price": "4000"
+                },
+                "Power": {
+                    "name": "華碩強力900",
+                    "price": "3000"
+                },
+                "Fan": {
+                    "name": "聯力 UltraCool 120",
+                    "price": "1999"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 27,
+        "question": "預算25000元，需要一台能流暢跑Eclipse做軟體開發的電腦，高速儲存和多核CPU不可或缺。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "微星 MSI B550M PRO-VDH WIFI 主機板",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "酷冷至尊 Cooler Master MasterBox MB311L 機殼",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5700X 處理器",
+                    "price": "7000"
+                },
+                "GPU": {
+                    "name": "華碩 ASUS Dual Radeon RX 6600 顯示卡",
+                    "price": "6000"
+                },
+                "Memory": {
+                    "name": "芝奇 G.Skill Ripjaws V DDR4 3200MHz 8GB x2 記憶體",
+                    "price": "1800"
+                },
+                "Storage": {
+                    "name": "威剛 ADATA XPG SX8200 Pro 1TB NVMe SSD 固態硬碟",
+                    "price": "2700"
+                },
+                "Power": {
+                    "name": "海韻 Seasonic S12III 550W 80+ Bronze 電源供應器",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "酷冷至尊 Cooler Master Hyper 212 EVO V2 CPU 散熱器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1990"
+                },
+                "CPU": {
+                    "name": "Intel Core i5-12600K",
+                    "price": "11000"
+                },
+                "GPU": {
+                    "name": "技嘉 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "金士頓 FURY 系列記憶體",
+                    "price": "4000"
+                },
+                "Storage": {
+                    "name": "威剛 SX8200 Pro NVMe SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻PowerPro 2500",
+                    "price": "2500"
+                },
+                "Fan": {
+                    "name": "威剛 Xtreme Fan 120",
+                    "price": "1500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 28,
+        "question": "預算35000元，需要一台能快速執行Android Studio的電腦，有足夠內存和不錯CPU性能。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "华擎（ASRock）B650M-HDV/M.2",
+                    "price": "4000"
+                },
+                "Case": {
+                    "name": "酷冷至尊（Cooler Master）MasterBox MB511",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 7600X 处理器",
+                    "price": "8000"
+                },
+                "GPU": {
+                    "name": "NVIDIA GeForce RTX 3050 显示卡",
+                    "price": "8000"
+                },
+                "Memory": {
+                    "name": "美商海盗船（Corsair）复仇者DDR5 5600MHz 16GB x2（共32GB）",
+                    "price": "5000"
+                },
+                "Storage": {
+                    "name": "金士顿（Kingston）NV2 1TB NVMe SSD 固态硬盘",
+                    "price": "3000"
+                },
+                "Power": {
+                    "name": "海韵（Seasonic）S12III 650W 80+ 铜牌电源供应器",
+                    "price": "2500"
+                },
+                "Fan": {
+                    "name": "酷冷至尊（Cooler Master）Hyper 212 CPU 散热器",
+                    "price": "1500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "全漢H500",
+                    "price": "1500"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "8000"
+                },
+                "GPU": {
+                    "name": "微星 RTX 3060 Ti",
+                    "price": "14900"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 16GB DDR4",
+                    "price": "5500"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro SSD",
+                    "price": "3999"
+                },
+                "Power": {
+                    "name": "海韻Power Pro 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "威剛 FAN-500",
+                    "price": "500"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 29,
+        "question": "預算45000元，希望組一台適合Docker多環境執行的電腦，需要大內存和高速CPU來同時跑多個容器。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "ASUS TUF Gaming B650-PLUS WIFI**",
+                    "price": "6000"
+                },
+                "Case": {
+                    "name": "Cooler Master MasterBox MB520 ARGB**",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 9 7900**",
+                    "price": "13000"
+                },
+                "GPU": {
+                    "name": "內建顯示（AMD Ryzen 9 7900 內建 Radeon Graphics）**",
+                    "price": "0"
+                },
+                "Memory": {
+                    "name": "G.SKILL Ripjaws S5 DDR5-5600 32GB (16GB x2) x2 組合（共64GB）**",
+                    "price": "9000"
+                },
+                "Storage": {
+                    "name": "Samsung 980 PRO 1TB PCIe 4.0 NVMe M.2 SSD**",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "Seasonic Focus GX-750 750W 80+ Gold 全模組電源供應器**",
+                    "price": "3500"
+                },
+                "Fan": {
+                    "name": "Noctua NH-D15 大型雙塔式CPU散熱器**",
+                    "price": "3500"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "技嘉 B550 AORUS ELITE",
+                    "price": "2999"
+                },
+                "Case": {
+                    "name": "酷碼X-Case",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 7 5800X",
+                    "price": "11500"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14500"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 3200MHz 16GB (2x8GB)",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro NVMe SSD",
+                    "price": "3990"
+                },
+                "Power": {
+                    "name": "海韻 Power 2000X",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "聯力 Silent Breeze 120",
+                    "price": "900"
+                }
+            }
+        }
+    },
+    {
+        "question_id": 30,
+        "question": "預算50000元，需要一台能流暢執行VMware Workstation虛擬化的電腦，內存和CPU虛擬化能力需很強。",
+        "response": {
+            "o1-preview": {
+                "Mother board": {
+                    "name": "华硕 ASUS Pro WS WRX80E-SAGE SE WIFI",
+                    "price": "7000"
+                },
+                "Case": {
+                    "name": "酷冷至尊 Cooler Master Cosmos C700P",
+                    "price": "2000"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen Threadripper PRO 5975WX",
+                    "price": "23000"
+                },
+                "GPU": {
+                    "name": "影驰 GALAX GeForce RTX 3060 金属大师",
+                    "price": "2500"
+                },
+                "Memory": {
+                    "name": "金士顿 Kingston DDR4 3200MHz ECC RDIMM 16GB x16（总计256GB）",
+                    "price": "12000"
+                },
+                "Storage": {
+                    "name": "西部数据 WD_BLACK SN850X 2TB NVMe SSD",
+                    "price": "1500"
+                },
+                "Power": {
+                    "name": "海韵 Seasonic PRIME TX-1000 1000W 80PLUS 钛金牌全模组电源",
+                    "price": "2000"
+                },
+                "Fan": {
+                    "name": "酷冷至尊 Cooler Master MasterLiquid ML360 TR4 RGB 一体式水冷散热器",
+                    "price": "1000"
+                }
+            },
+            "BuildMate": {
+                "Mother board": {
+                    "name": "華碩 TUF Gaming B550-PLUS",
+                    "price": "3000"
+                },
+                "Case": {
+                    "name": "全漢 H500",
+                    "price": "1999"
+                },
+                "CPU": {
+                    "name": "AMD Ryzen 5 5600X",
+                    "price": "10000"
+                },
+                "GPU": {
+                    "name": "微星 GeForce RTX 3060 Ti",
+                    "price": "14800"
+                },
+                "Memory": {
+                    "name": "美光 Crucial Ballistix 6000MHz",
+                    "price": "6000"
+                },
+                "Storage": {
+                    "name": "威剛 XPG SX8200 Pro NVMe M.2 SSD",
+                    "price": "3500"
+                },
+                "Power": {
+                    "name": "海韻Power 2000",
+                    "price": "1999"
+                },
+                "Fan": {
+                    "name": "威剛 XFan 120",
+                    "price": "999"
+                }
+            }
+        }
+    }
+]

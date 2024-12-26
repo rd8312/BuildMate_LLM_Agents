@@ -1,0 +1,412 @@
+[
+  {
+    "question_id": 1,
+    "question": "請問30000元內能組一台什麼樣的主機，主要是玩LOL和看Netflix用？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600G | price: 7500\nMotherboard: MSI B450M PRO-VDH MAX | price: 3000\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nGPU: NVIDIA GeForce GTX 1650 | price: 8000\nSSD: MSI B450M PRO-VDH MAX | price: 3000\nPower Supply: Corsair CV450 450W 80 PLUS Bronze | price: 1500\nCase: Cooler Master MasterBox Q300L | price: 1200\nCase Fan: Cooler Master Hyper 212 LED | price: 1200\n總價: 27400",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600 | price: 4500\nMotherboard: MSI B550M PRO-VDH WIFI | price: 3500\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: AMD Radeon RX 6600 | price: 7300\nSSD: Western Digital Blue SN570 1TB NVMe | price: 1900\nPower Supply: Cooler Master MWE 550W 80+ Bronze | price: 1800\nCase: NZXT H510 | price: 2500\nCase Fan: ARCTIC F12 Silent 120mm | price: 300\n總價: 23600",
+    "winner": 0,
+    "buildmate_avg_score": 6.0,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "有推薦的組合嗎？預算大概在50000元，要能處理攝影後製和輕遊戲，如：軒轅劍7。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8500\nMotherboard: AMD Ryzen 5 5600X | price: 8500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2500\nGPU: NVIDIA GeForce GTX 1660 Super | price: 8000\nSSD: 電源供應器（Corsair CV550 550W） | price: 2000\nPower Supply: AMD Ryzen 5 5600X | price: 8500\nCase: Cooler Master MasterBox Q300L | price: 2000\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1600\n總價: 41600",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550-A PRO | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 | price: 3200\nGPU: NVIDIA GeForce RTX 3060 Ti | price: 11990\nSSD: WD Black SN770 1TB NVMe | price: 2790\nPower Supply: Seasonic Focus GX-650 80+ Gold | price: 3290\nCase: NZXT H510 Flow | price: 2490\nCase Fan: ARCTIC F12 PWM 120mm | price: 250\n總價: 33990",
+    "winner": 0,
+    "buildmate_avg_score": 2.3333333333333335,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 1
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 1
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "碩士生研究用的電腦，預算約70000元，需要跑深度學習模型，有沒有建議配置？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12000\nMotherboard: ASUS ROG Strix X570-E Gaming | price: 17000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 5500\nGPU: NVIDIA GeForce GTX 1650 Super | price: 6000\nSSD: Corsair RM850x 850W | price: 7500\nPower Supply: Noctua NH-D15 | price: 3500\nCase: AMD Ryzen 9 5900X | price: 16000\nCase Fan: Noctua NF-A14 PWM | price: 2500\n總價: 70000",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 9 7900X | price: 16900\nMotherboard: ASUS TUF GAMING B650-PLUS WIFI | price: 6990\nMemory: Corsair Vengeance LPX 32GB (2x16GB) DDR5-5200 | price: 5200\nGPU: NVIDIA GeForce RTX 4070 | price: 23900\nSSD: Samsung 980 PRO 1TB NVMe SSD | price: 3990\nPower Supply: Seasonic FOCUS GX-750 80+ Gold | price: 3990\nCase: Lian Li Lancool II Mesh | price: 3500\nCase Fan: ARCTIC F12 PWM (5-Pack) | price: 1200\n總價: 65670",
+    "winner": 0,
+    "buildmate_avg_score": 3.1666666666666665,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "預算大約20000元，尋求一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+    "buildmate_recommendation": "CPU: Intel Celeron G5900 | price: 800\nMotherboard: 華碩 PRIME B560M-A | price: 5000\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nGPU: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nSSD: ADATA SU635 480GB SSD | price: 1500\nPower Supply: 海盜船 RM550x 550W | price: 3500\nCase: Intel Core i3-10100 | price: 4000\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1500\n總價: 20300",
+    "gpt4o_recommendation": "CPU: Intel Core i3-12100 | price: 3990\nMotherboard: MSI PRO B660M-A DDR4 | price: 3290\nMemory: Kingston FURY Beast 16GB (2x8GB) DDR4-3200 | price: 1790\nGPU: Intel UHD Graphics 730 (內建於CPU) | price: 0\nSSD: Crucial P3 500GB NVMe SSD | price: 1490\nPower Supply: Cooler Master MWE 450W 80+ Bronze | price: 1590\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: ARCTIC F12 120mm Case Fan | price: 250\n總價: 13790",
+    "winner": 0,
+    "buildmate_avg_score": 2.8333333333333335,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "想請問80000元左右，能組出來什麼級別的遊戲主機？想玩些新遊戲，畫質要好。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8000\nMotherboard: ASUS ROG Strix B550-F Gaming | price: 5500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3200\nGPU: NVIDIA GeForce RTX 3060 | price: 18900\nSSD: Corsair RM650x | price: 4500\nPower Supply: Corsair RM650x | price: 4500\nCase: Cooler Master MasterBox Q300L | price: 1990\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1500\n總價: 48090",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600X | price: 7990\nMotherboard: MSI PRO B650-P WIFI | price: 5990\nMemory: Corsair Vengeance DDR5 32GB (2x16GB) 5200MHz | price: 4990\nGPU: NVIDIA GeForce RTX 4070 | price: 19990\nSSD: WD Black SN850X 1TB NVMe SSD | price: 3990\nPower Supply: Seasonic FOCUS GX-750 80+ Gold | price: 3990\nCase: Lian Li Lancool II Mesh RGB | price: 3490\nCase Fan: ARCTIC F12 PWM (5-Pack) | price: 1200\n總價: 51630",
+    "winner": 0,
+    "buildmate_avg_score": 5.333333333333333,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "工作需要，我要一台能跑Solidworks和AutoCAD的工作站，預算大概60000元，有建議嗎？",
+    "buildmate_recommendation": "CPU: Intel 第九代 i5-9600K | price: 6000\nMotherboard: ASUS Pro WS X299 Sage | price: 12000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 6000\nGPU: NVIDIA GeForce GTX 1660 Super | price: 8000\nSSD: Corsair RM850x 850W 80 Plus Gold | price: 5000\nPower Supply: 電源供應器 Seasonic Focus GX-850 (850W) | price: 5000\nCase: Intel Core i9-10920X | price: 13000\nCase Fan: Noctua NH-D15 | price: 4000\n總價: 59000",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10990\nMotherboard: MSI MAG B550 TOMAHAWK | price: 4990\nMemory: Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 | price: 4590\nGPU: NVIDIA RTX A2000 6GB | price: 18990\nSSD: Samsung 980 Pro 1TB | price: 3990\nPower Supply: Seasonic Focus GX-750 80+ Gold | price: 3590\nCase: Lian Li Lancool II Mesh Performance | price: 3290\nCase Fan: ARCTIC F12 PWM (3-pack) | price: 990\n總價: 51420",
+    "winner": 0,
+    "buildmate_avg_score": 4.166666666666667,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "有沒有推薦的遊戲主機配置？預算在45000元，想要玩 POE、APEX等槍戰、LOL。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12000\nMotherboard: ASUS TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3000\nGPU: NVIDIA GeForce GTX 1650 | price: 5000\nSSD: Corsair RM650x 650W 全模組化電源 | price: 4000\nPower Supply: NVIDIA GeForce RTX 3060 | price: 12000\nCase: AMD Ryzen 5 5600X | price: 8500\nCase Fan: Cooler Master Hyper 212 RGB | price: 1800\n總價: 50800",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550-A PRO | price: 3890\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce RTX 3060 Ti | price: 11990\nSSD: Western Digital Black SN770 1TB NVMe | price: 2490\nPower Supply: Seasonic Focus GX-650 80+ Gold | price: 3290\nCase: Lian Li Lancool II Mesh | price: 2990\nCase Fan: ARCTIC F12 PWM 120mm | price: 250\n總價: 32880",
+    "winner": 0,
+    "buildmate_avg_score": 3.1666666666666665,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "預算約45000元，需要一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+    "buildmate_recommendation": "CPU: Intel Core i7-10700K | price: 12000\nMotherboard: ASUS ROG Strix Z490-E Gaming | price: 12000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 8000\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6000\nSSD: NVIDIA GeForce RTX 3060 | price: 15000\nPower Supply: Corsair RM750x 750W 全模組化電源供應器 | price: 5000\nCase: Intel Core i7-10700K | price: 12000\nCase Fan: Noctua NH-D15 | price: 4500\n總價: 74500",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600 | price: 7490\nMotherboard: MSI PRO B650M-A WIFI | price: 4990\nMemory: Corsair Vengeance DDR5 32GB (2x16GB) 5200MHz | price: 3990\nGPU: NVIDIA GeForce RTX 4060 | price: 12990\nSSD: WD Black SN850X 1TB NVMe SSD | price: 3390\nPower Supply: Seasonic Focus GX-750 80+ Gold | price: 3590\nCase: Lian Li Lancool II Mesh Performance | price: 2990\nCase Fan: ARCTIC F12 PWM 120mm | price: 250\n總價: 39680",
+    "winner": 0,
+    "buildmate_avg_score": 3.0,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "我需要一台適合股市分析的電腦，預算大概30000元，需要大量運算和多螢幕，有什麼好提議？",
+    "buildmate_recommendation": "CPU: Intel 第八代 i5-8400 | price: 4500\nMotherboard: ASUS TUF Gaming B460M-Plus | price: 4500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3000\nGPU: NVIDIA GeForce GTX 1050 Ti | price: 800\nSSD: Corsair RM750x 750W 電源供應器 | price: 5000\nPower Supply: ASUS ROG Strix Z490-E Gaming | price: 8000\nCase: Cooler Master MasterBox Q300L | price: 1500\nCase Fan: Noctua NH-U12S Redux | price: 2500\n總價: 29800",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8990\nMotherboard: MSI B550-A PRO | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 | price: 3990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6990\nSSD: WD Black SN770 1TB NVMe SSD | price: 2490\nPower Supply: Seasonic Focus GX-650 80+ Gold | price: 3290\nCase: NZXT H510 | price: 2490\nCase Fan: ARCTIC F12 PWM | price: 200\n總價: 32430",
+    "winner": 0,
+    "buildmate_avg_score": 3.5,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "想要組一台約65000元的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12900\nMotherboard: ASUS ROG Strix B550-F Gaming (Wi-Fi) | price: 8500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3200\nGPU: NVIDIA GeForce RTX 3060 | price: 15000\nSSD: Corsair RM750x 750W 80 Plus Gold | price: 5000\nPower Supply: Noctua NH-U12S Redux | price: 2800\nCase: AMD Ryzen 7 5800X | price: 12900\nCase Fan: Noctua NF-A12x25 PWM 120mm風扇 | price: 2000\n總價: 62300",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600X | price: 8990\nMotherboard: MSI MAG B650 TOMAHAWK WIFI | price: 6990\nMemory: Corsair Vengeance DDR5 32GB (2x16GB) 5200MHz | price: 4990\nGPU: NVIDIA GeForce RTX 4070 | price: 19990\nSSD: Samsung 980 PRO 1TB NVMe SSD | price: 3490\nPower Supply: Seasonic Focus GX-750 80+ Gold | price: 3990\nCase: Lian Li Lancool II Mesh RGB | price: 3490\nCase Fan: ARCTIC F12 PWM 120mm | price: 300\n總價: 52230",
+    "winner": 0,
+    "buildmate_avg_score": 4.666666666666667,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4
+        }
+      }
+    ]
+  }
+]

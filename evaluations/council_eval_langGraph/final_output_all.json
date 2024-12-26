@@ -1,0 +1,182 @@
+[
+  {
+    "question_id": 1,
+    "question": "請問30000元內能組一台什麼樣的主機，主要是玩LOL和看Netflix用？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1590\nGPU: MSI GeForce GTX 1650 D6 VENTUS XS OC | price: 6490\nStorage: ADATA XPG SX8200 Pro 512GB NVMe M.2 | price: 1490\nPower Supply: Cooler Master MWE 550W 80+ Bronze | price: 1890\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: ARCTIC P12 PWM PST 120mm | price: 490\n總價: 18230",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-E-CSM(DDR5)(M-ATX/Realtek 1Gb/註冊四年/2DIMM) | price: 2990\nMemory: 威剛 單條16GB DDR5-5600/CL46 (AD5U560016G-S)【雙參數】 | price: 1269\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 送12+4pin模組線！ | price: 3990\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 /HDB軸承/2000RPM/抗震襯墊/PWM/六年保 | price: 790\n總價: 25918"
+  },
+  {
+    "question_id": 2,
+    "question": "有推薦的組合嗎？預算大概在50000元，要能處理攝影後製和輕遊戲，如：軒轅劍7。",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF GAMING B550M-PLUS (Wi-Fi) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1890\nPower Supply: Seasonic Focus GX-650 (650W) | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26420",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRO WS W680-ACE | price: 9990\nMemory: 威剛 32GB(雙通16GB*2) DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 2699\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: Acer Predator Frostblade 120 風扇 | price: 390\n總價: 38248"
+  },
+  {
+    "question_id": 3,
+    "question": "碩士生研究用的電腦，預算約70000元，需要跑深度學習模型，有沒有建議配置？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF GAMING B550-PLUS | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 15900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 80 PLUS Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 43140",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-A D4-CSM | price: 3490\nMemory: UMAX 單條32GB DDR5-6000/CL30【雙參數】 | price: 2899\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 美光Micron Crucial P3 Plus 1TB/Gen4 PCIe 4.0 | price: 1799\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 華碩 Prime AP201 TG 黑 | price: 1990\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 /HDB軸承/2000RPM/抗震襯墊/PWM/六年保 | price: 790\n總價: 33348"
+  },
+  {
+    "question_id": 4,
+    "question": "預算大約30000元，尋求一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+    "gpt4o_recommendation": "CPU: Intel Core i3-12100 | price: 3500\nMotherboard: 華碩 PRIME H610M-A D4 | price: 2900\nMemory: 威剛 單條16GB DDR4-3200 | price: 1200\nGPU: 內建顯示核心 (Intel UHD Graphics 730) | price: 0\nStorage: 威剛 SU650 480GB SSD | price: 1300\nPower Supply: Cooler Master MWE 450W 80+白牌 | price: 1200\nCase: Cooler Master Q300L | price: 1200\nCase Fan: Cooler Master SickleFlow 120 V2 | price: 400\n總價: 11700",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2890\nMemory: UMAX 單條16GB DDR5-4800/CL40 支援 XMP | price: 1150\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 24739"
+  },
+  {
+    "question_id": 5,
+    "question": "想請問80000元左右，能組出來什麼級別的遊戲主機？想玩些新遊戲，畫質要好。",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600 | price: 6990\nMotherboard: 華碩 TUF Gaming B650-PLUS (ATX/DDR5) | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 12900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 2990\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 36930",
+    "buildmate_recommendation": "CPU: Intel i5-14600KF | price: 7400\nMotherboard: 華碩 PRIME B760M-F D4-CSM | price: 2590\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 微星 RTX3060 VENTUS 2X 12G OC | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: 華碩 AR120 ARGB PWM 風扇 | price: 299\n總價: 27607"
+  },
+  {
+    "question_id": 6,
+    "question": "工作需要，我要一台能跑Solidworks和AutoCAD的工作站，預算大概60000元，有建議嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 4990\nMotherboard: 華碩 TUF GAMING B550M-PLUS | price: 3490\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 2290\nPower Supply: Cooler Master MWE Gold 650W | price: 2490\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 24320",
+    "buildmate_recommendation": "CPU: Intel i9-14900F | price: 14900\nMotherboard: 華碩 PRO WS W680-ACE | price: 9990\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 技嘉 RTX3060 WINDFORCE OC 12G(rev2.0) | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: Montech SKY TWO 黑 | price: 1890\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 43398"
+  },
+  {
+    "question_id": 7,
+    "question": "有沒有推薦的遊戲主機配置？預算在45000元，想要玩 POE、APEX等槍戰、LOL。",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1890\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 25820",
+    "buildmate_recommendation": "CPU: Intel i5-14600K | price: 7990\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM) | price: 2890\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保 | price: 4890\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 29388"
+  },
+  {
+    "question_id": 8,
+    "question": "預算約45000元，需要一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF GAMING B550M-PLUS | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80 PLUS Gold | price: 3290\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 29530",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相 | price: 2890\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 華擎 ARC B580 Challenger 12G OC | price: 9290\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: MONTECH AX120 PWM 黑 風扇/A.RGB/1600RPM/HDB軸/三年保 | price: 299\n總價: 30507"
+  },
+  {
+    "question_id": 9,
+    "question": "我需要一台適合股市分析的電腦，預算大概30000元，需要大量運算和多螢幕，有什麼好提議？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5700G | price: 6500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2500\nGPU: MSI GeForce GTX 1660 Super 6GB | price: 7000\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Cooler Master MWE Gold 650W | price: 2500\nCase: Fractal Design Meshify C | price: 2000\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 28300",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相 | price: 2890\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: NVIDIA GTX 1660 Super | price: 4990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保 | price: 4890\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 27398"
+  },
+  {
+    "question_id": 10,
+    "question": "想要組一台約65000元的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600 | price: 5990\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI (AM5/M-ATX) | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5200 | price: 2490\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 35730",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM) | price: 2890\nMemory: 威剛 單條 16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 華擎 ARC B580 Challenger 12G OC | price: 9290\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保 | price: 4890\nCase: SAMA SAK702 新鏡界(白) | price: 1890\nCase Fan: Acer Predator Frostblade 120 風扇 | price: 390\n總價: 31298"
+  },
+  {
+    "question_id": 11,
+    "question": "請問40000元預算可以組出來能玩FPS、3A大作、多開模擬器遊戲的電腦嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 2290\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Seasonic Focus GX-650, 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26240",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2890\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 30098"
+  },
+  {
+    "question_id": 12,
+    "question": "預算25000元，我想要一台電腦主要用於線上學習和偶爾寫程式，有建議配置嗎？",
+    "gpt4o_recommendation": "CPU: Intel Core i5-12400F | price: 4990\nMotherboard: 華碩 PRIME B660M-A D4 | price: 3190\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1590\nGPU: NVIDIA GeForce GTX 1650 4GB | price: 4990\nStorage: Western Digital Blue SN570 500GB NVMe SSD | price: 1390\nPower Supply: Cooler Master MWE 650W 80+ Bronze | price: 2390\nCase: Cooler Master Q300L | price: 1290\nCase Fan: ARCTIC P12 PWM PST 120mm Fan | price: 590\n總價: 20420",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2890\nMemory: UMAX 單條16GB DDR5-5600/CL46【雙參數】 | price: 1150\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 24839"
+  },
+  {
+    "question_id": 13,
+    "question": "請問75000元左右的預算能組一台什麼樣的4K影片剪輯機？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 7500\nMotherboard: MSI B550-A PRO | price: 3500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2500\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 12000\nStorage: Samsung 970 EVO Plus 1TB NVMe SSD | price: 4000\nPower Supply: Corsair RM750x (750W) 80 Plus Gold | price: 3500\nCase: Fractal Design Meshify C | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 36300",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-F D4-CSM | price: 2590\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 技嘉 RTX 4070 WINDFORCE 2X OC V2 12G | price: 18990\nStorage: 美光Micron Crucial BX500 500G/2.5吋/讀:540M/寫:500M/TLC顆粒【三年保】 | price: 949\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 送12+4pin模組線！ | price: 3990\nCase: 聯力 PC-O11 Dynamic 白 | price: 2790\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 41148"
+  },
+  {
+    "question_id": 14,
+    "question": "我要組一台電腦，預算約35000元，主要用於玩《英雄聯盟》和做寫作業與論文研究，推薦配置是？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 5990\nMotherboard: 華碩 TUF GAMING B550M-PLUS (Wi-Fi) (M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 6990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Cooler Master MWE 650W 80+ Bronze | price: 1990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: ARCTIC P12 PWM PST 120mm Fan | price: 590\n總價: 24820",
+    "buildmate_recommendation": "CPU: Intel Core Ultra 5 245KF | price: 9650\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2490\nMemory: UMAX 單條16GB DDR5-5600/CL46【雙參數】 | price: 1150\nGPU: 技嘉 RTX3050 WINDFORCE OC 6G | price: 5990\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保 | price: 4890\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 26589"
+  },
+  {
+    "question_id": 15,
+    "question": "預算大概55000元，尋找一台適合做3D動畫和模型設計的電腦，有推薦嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 9500\nMotherboard: MSI MAG B550 TOMAHAWK | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2500\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe SSD | price: 3500\nPower Supply: Seasonic Focus GX-750, 750W 80+ Gold | price: 3500\nCase: Fractal Design Meshify C | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 40190",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRO WS W680-ACE | price: 9990\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 華碩 DUAL-RTX4060-O8G-EVO | price: 10990\nStorage: 威剛 Ultimate SU800 512G | price: 1499\nPower Supply: Antec HCG1000(1000W) | price: 3990\nCase: 聯力 PC-O11 Dynamic 白 | price: 2790\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 41098"
+  },
+  {
+    "question_id": 16,
+    "question": "我是遊戲開發學生，預算大約85000元，需要一台能處理遊戲開發和渲染的高階機，有沒有好的配置？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3500\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 15000\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Cooler Master MWE Gold 750W | price: 3000\nCase: NZXT H510 | price: 2000\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 40800",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相 | price: 2890\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製 | price: 1499\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 聯力 PC-O11 Dynamic 白 | price: 2790\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 31698"
+  },
+  {
+    "question_id": 17,
+    "question": "預算30000元內，請問有適合辦公和輕度Photoshop使用的電腦配置嗎？",
+    "gpt4o_recommendation": "CPU: Intel i5-11400 | price: 5300\nMotherboard: 華碩 PRIME B560M-A (M-ATX/Realtek 1Gb/支援DDR4) | price: 2990\nMemory: 威剛 單條16GB DDR4-3200 (AD4U320016G22) | price: 1090\nGPU: 華碩 GeForce GTX 1650 4GB | price: 5990\nStorage: 西部數據 WD Blue 500GB M.2 NVMe SSD | price: 1390\nPower Supply: 海韻 VS500 (500W) 80 PLUS | price: 1290\nCase: Cooler Master Q300L | price: 1290\nCase Fan: Cooler Master SickleFlow 120 V2 | price: 490\n總價: 19830",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2890\nMemory: UMAX 單條16GB DDR5-4800/CL40 支援 XMP | price: 1150\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒 | price: 899\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 24239"
+  },
+  {
+    "question_id": 18,
+    "question": "想問下，有沒有大約50000元的電腦配置，適合玩大型開放世界遊戲的？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3590\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26120",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 TUF GAMING B650M-PLUS(M-ATX/Realtek 2.5G/註五年)12+2+2相電源 | price: 4090\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製 | price: 1499\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 聯力 PC-O11 Dynamic 白 | price: 2790\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 32598"
+  },
+  {
+    "question_id": 19,
+    "question": "我需要一台電腦，預算大概45000元，主要用於音樂製作和錄音，需要特別注意什麼配件？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5490\nMotherboard: 華碩 TUF Gaming B550M-PLUS | price: 3490\nMemory: Corsair Vengeance LPX 16GB DDR4-3200 | price: 1490\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Cooler Master MWE Gold 650W | price: 2490\nCase: Fractal Design Meshify C | price: 1990\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 24720",
+    "buildmate_recommendation": "CPU: Intel i5-14600KF | price: 7400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2890\nMemory: 威剛 單條32GB DDR5 5600/CL46 XPG Lancer Blade(矮版散熱片) | price: 2499\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: 全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保 | price: 3690\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: darkFlash S100 12cm 黑 效能扇/1800RPM/FDB軸/PWM可串接/10年保 | price: 399\n總價: 28357"
+  },
+  {
+    "question_id": 20,
+    "question": "預算約60000元，想要一台電腦主要用於科學計算和寫程式，有推薦配置嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5500\nMotherboard: 華碩 TUF Gaming B550M-PLUS | price: 3500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 2000\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7500\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 2500\nPower Supply: Cooler Master MWE Gold 650W | price: 2500\nCase: NZXT H510 | price: 1800\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 26100",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B650M-F-CSM(M-ATX/Realtek 1Gb/註四年/2DIMM)8相 | price: 2990\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇 | price: 3990\nCase: 華碩 TUF Gaming GT301 | price: 2390\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 31398"
+  },
+  {
+    "question_id": 21,
+    "question": "請問我想組一台約70000元的電腦，主要用於虛擬機運行和大數據處理，有什麼建議？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 7800\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2800\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 12000\nStorage: Samsung 970 EVO Plus 1TB NVMe SSD | price: 3500\nPower Supply: Corsair RM750x (750W) 80 Plus Gold | price: 3500\nCase: Fractal Design Meshify C | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 37400",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-F D4-CSM | price: 2590\nMemory: 美光Micron Crucial PRO 超頻 32GB(雙通16GB*2) D5 6000/CL36 黑色散熱片 | price: 2499\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 ADATA LEGEND 900 1TB/Gen4/讀:7000M/寫:4700M/五年保 | price: 1999\nPower Supply: 全漢 HYDRO PTM PRO 1000W 參8/白金/全模/主日系/防潮塗層/10年 | price: 4690\nCase: 華碩 Prime AP201 黑 | price: 1890\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 33148"
+  },
+  {
+    "question_id": 22,
+    "question": "預算大約30000元，尋找一台適合初學者學習寫程式和偶爾玩遊戲的電腦，有推薦配置嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 4990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: 影馳 GTX 1660 Super 6GB | price: 5990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Seasonic Focus GX-550 (550W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 24020",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2490\nMemory: UMAX 單條32GB DDR5-4800/CL40 支援 XMP | price: 2288\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 美光Micron Crucial BX500 500G | price: 949\nPower Supply: 全漢 HYDRO GT PRO 1000W | price: 3690\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: Acer Predator Frostblade 120 風扇 | price: 390\n總價: 25387"
+  },
+  {
+    "question_id": 23,
+    "question": "我要組裝一台預算約40000元的電腦，主要用來看4K電影和日常使用，有建議配置嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 4500\nMotherboard: ASRock B550M-HDV | price: 2900\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1800\nGPU: ASUS GeForce GTX 1660 Super 6GB | price: 6500\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Cooler Master MWE 650W 80+ Gold | price: 2500\nCase: Cooler Master MasterBox Q300L | price: 1200\nCase Fan: ARCTIC P12 PWM PST 120mm | price: 500\n總價: 23400",
+    "buildmate_recommendation": "CPU: Intel Core Ultra 5 245KF | price: 9650\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM) | price: 2890\nMemory: UMAX 單條16GB DDR5-4800/CL40 支援 XMP | price: 1150\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: 全漢 HYDRO PTM X PRO 1000W ATX3.0(PCIe 5.0) 雙8/白金/全模/全日系/短機身/10年 | price: 3990\nCase: 銀欣 RL08 紅黑 顯卡長34.5/U高16.8/右方玻璃透側/M-ATX 左側放置推薦！ | price: 1290\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 29089"
+  },
+  {
+    "question_id": 24,
+    "question": "想請問，85000元預算能組一台什麼樣的專業級遊戲機？希望能玩最新遊戲。",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600X | price: 6890\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1490\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 32340",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 TUF GAMING B760M-PLUS WIFI D4 | price: 4990\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: 華碩 DUAL-RTX4060-O12G | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: SAMA SAK702 新鏡界(白) | price: 1890\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇/HDB軸/2000RPM/PWM/六年 | price: 790\n總價: 28898"
+  },
+  {
+    "question_id": 25,
+    "question": "預算約50000元，我想要一台電腦主要用於AI學習和研究，有沒有好的配置建議？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8500\nMotherboard: MSI MAG B550 TOMAHAWK | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3000\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 12000\nStorage: Samsung 970 EVO Plus 1TB NVMe SSD | price: 3500\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 3500\nCase: Fractal Design Meshify C | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 38300",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-F D4-CSM(M-ATX/Realtek 1Gb/註四年/2DIMM)8相 | price: 2590\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: UMAX S330 960GB /2.5吋 讀:560MB寫:500MB/3D NAND Flash【三年保】 | price: 1600\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 送12+4pin模組線！ | price: 3990\nCase: Montech SKY TWO 黑 | price: 1890\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 30599"
+  },
+  {
+    "question_id": 26,
+    "question": "請問一下，25000元預算可以組一台適合高中生用的課業學習電腦嗎？主要是寫作業和上網。",
+    "gpt4o_recommendation": "CPU: Intel Core i3-12100 | price: 4200\nMotherboard: 華碩 PRIME B560M-A (M-ATX/Realtek 1Gb/2DIMM) | price: 2990\nMemory: 威剛 16GB DDR4-3200 (AD4U320016G22) | price: 1200\nGPU: 內建顯示核心 (Intel UHD Graphics 730) | price: 0\nStorage: 威剛 SU650 480GB SSD | price: 1299\nPower Supply: Cooler Master MWE 500W 80+ Bronze | price: 1590\nCase: Cooler Master Q300L | price: 1290\nCase Fan: Cooler Master SickleFlow 120 V2 | price: 350\n總價: 12919",
+    "buildmate_recommendation": "CPU: Intel i5-12400F | price: 3500\nMotherboard: 華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相 | price: 2890\nMemory: UMAX 單條16GB DDR5-4800/CL40 支援 XMP | price: 1150\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】 | price: 899\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 銀欣 RL08 紅黑 | price: 1290\nCase Fan: 安耐美 靜蝠 12cm 磁力滾珠軸承 | price: 230\n總價: 22639"
+  },
+  {
+    "question_id": 27,
+    "question": "我是平面設計師，預算大概55000元，需要一台適合設計工作的電腦，有推薦嗎？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 6990\nMotherboard: 華碩 TUF Gaming B550M-PLUS | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1890\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1890\nPower Supply: Seasonic Focus GX-550 (550W) | price: 2890\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26620",
+    "buildmate_recommendation": "CPU: Intel i7-12700KF | price: 8450\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5) | price: 2490\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: 美光Micron Crucial MX500 500G/2.5吋/讀:560M/寫:510M/TLC/SMI台控制器 | price: 1450\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) | price: 4890\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: 安耐美 靜蝠 12cm | price: 230\n總價: 29039"
+  },
+  {
+    "question_id": 28,
+    "question": "預算大約70000元，想要一台適合專業影像處理和影片剪輯的電腦，有什麼建議配置？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2800\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 12000\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Cooler Master MWE Gold 750W | price: 3000\nCase: NZXT H510 | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 700\n總價: 37500",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 PRIME B760M-F D4-CSM(M-ATX/Realtek 1Gb/註四年/2DIMM)8相 | price: 2590\nMemory: 威剛單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】 | price: 1499\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保 | price: 4890\nCase: SAMA SAK702 新鏡界(白) | price: 1890\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 31698"
+  },
+  {
+    "question_id": 29,
+    "question": "我想組一台電腦，預算約60000元，主要用於玩模擬飛行遊戲，有沒有推薦的配置？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 2490\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Seasonic Focus GX-650, 80+ Gold | price: 3290\nCase: Cooler Master MasterBox Q300L | price: 1490\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 33930",
+    "buildmate_recommendation": "CPU: Intel i7-14700F | price: 9700\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI | price: 4090\nMemory: 威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】 | price: 1349\nGPU: INTEL 原廠 ARC B580 12G | price: 8990\nStorage: 威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製 | price: 1499\nPower Supply: 全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) | price: 4890\nCase: 聯力 PC-O11 Dynamic 白 | price: 2790\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 34098"
+  },
+  {
+    "question_id": 30,
+    "question": "請問有沒有大約35000元的電腦配置推薦，適合用於網頁開發和輕度遊戲？",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1650 4GB | price: 4990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 1990\nPower Supply: Seasonic Focus GX-650 650W 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 24120",
+    "buildmate_recommendation": "CPU: Intel i5-14400F | price: 5400\nMotherboard: 華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM) | price: 2890\nMemory: UMAX 單條32GB DDR5-4800/CL40 支援 XMP | price: 2288\nGPU: Acer Nitro Intel ARC B580 OC 12GB | price: 8690\nStorage: WD Blue SA510 500GB(藍標) | price: 1280\nPower Supply: Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 | price: 3990\nCase: 華碩 A21 黑 | price: 1490\nCase Fan: MSI MEG SILENT GALE P12 靜音風扇 | price: 790\n總價: 26818"
+  }
+]

@@ -1,0 +1,490 @@
+[
+  {
+    "question_id": 1,
+    "question": "請問30000元內能組一台什麼樣的主機，主要是玩LOL和看Netflix用，機殼要小且多彩？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600G | price: 7500\nMotherboard: MSI B450M PRO-VDH MAX | price: 3000\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nGPU: NVIDIA GeForce GTX 1650 | price: 8000\nSSD: MSI B450M PRO-VDH MAX | price: 3000\nPower Supply: Corsair CV450 450W 80 PLUS Bronze | price: 1500\nCase: Cooler Master MasterBox Q300L | price: 1200\nCase Fan: Cooler Master Hyper 212 LED | price: 1200\n總價: 27400",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 5500\nMotherboard: ASUS TUF Gaming B550M-PLUS | price: 3500\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: AMD Radeon Graphics (integrated) | price: 0\nSSD: Crucial P3 500GB NVMe SSD | price: 1500\nPower Supply: Thermaltake Smart 500W 80+ | price: 1500\nCase: Cooler Master MasterBox Q300L | price: 1200\nCase Fan: ARCTIC P12 PWM PST 120mm | price: 300\n總價: 15300",
+    "winner": 0,
+    "buildmate_avg_score": 7.166666666666667,
+    "gpt4o_avg_score": 8.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o方案效能足夠且價格低，但僅靠整合顯示卡，效能較有限；BuildMate方案增加獨顯GTX 1650，效能提升明顯，但散熱與電源稍顯不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o方案效能足夠應付LOL和Netflix，價格實惠且預算利用率高；BuildMate方案效能提升但顯卡過剩，CPU價格偏高，預算分配不均。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o方案效能足夠滿足LOL和Netflix需求，價格實惠且符合小機殼需求；BuildMate方案效能過剩，顯卡與CPU價格偏高，預算分配不均。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o方案效能足夠應付LOL與Netflix，整體預算分配合理且散熱充足；BuildMate效能過剩，顯卡與CPU價格偏高，電源功率不足，穩定性稍弱。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o方案效能足夠應付LOL和Netflix需求，價格實惠且預算分配合理；BuildMate方案顯卡效能過剩，CPU價格偏高，電源功率不足，預算分配不均。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o方案效能足夠滿足LOL和Netflix需求，價格實惠且預算利用率高，符合小機殼需求；BuildMate方案顯卡效能過剩，電源功率不足，預算分配不均且散熱稍弱。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 2,
+    "question": "有推薦的組合嗎？預算大概在50000元，要能處理攝影後製和輕遊戲，如：軒轅劍7。想找白色透側電競風機殼",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8500\nMotherboard: AMD Ryzen 5 5600X | price: 8500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2500\nGPU: NVIDIA GeForce GTX 1660 Super | price: 8000\nSSD: 電源供應器（Corsair CV550 550W） | price: 2000\nPower Supply: AMD Ryzen 5 5600X | price: 8500\nCase: Cooler Master MasterBox Q300L | price: 2000\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1600\n總價: 41600",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550M PRO-VDH WIFI | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: AMD Radeon RX 6600 | price: 8500\nSSD: Western Digital Blue SN550 1TB | price: 2200\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2500\nCase: NZXT H510 | price: 2000\nCase Fan: ARCTIC P12 PWM PST | price: 300\n總價: 26580",
+    "winner": 0,
+    "buildmate_avg_score": 2.6666666666666665,
+    "gpt4o_avg_score": 8.333333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，CPU/GPU效能充足，散熱與電源穩定；BuildMate配置錯誤，重複項目多，系統不完整且不平衡。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，效能足夠且預算分配合理；BuildMate配置錯誤，重複選項導致效能浪費，預算利用率極低。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置效能足夠，價格合理但未充分利用預算，機殼不符合白色需求；BuildMate配置混亂，重複項目多，功能不完整且不符需求。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 2,
+          "reason": "gpt4o效能均衡，CPU/GPU搭配合理，散熱與電源穩定，但機殼不符需求；BuildMate配置混亂，重複項目多，效能與穩定性極差。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置均衡，效能足夠且預算分配合理，符合需求；BuildMate配置混亂，重複選項錯誤，效能與預算利用率極差。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置效能足夠，預算分配合理，但未滿足白色透側機殼需求；BuildMate配置錯誤，重複項目多，效能與穩定性不符需求且浪費預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "碩士生研究用的電腦，預算約70000元，需要跑深度學習模型，有沒有建議配置？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12000\nMotherboard: ASUS ROG Strix X570-E Gaming | price: 17000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 5500\nGPU: NVIDIA GeForce GTX 1650 Super | price: 6000\nSSD: Corsair RM850x 850W | price: 7500\nPower Supply: Noctua NH-D15 | price: 3500\nCase: AMD Ryzen 9 5900X | price: 16000\nCase Fan: Noctua NF-A14 PWM | price: 2500\n總價: 70000",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 9500\nMotherboard: MSI B550-A PRO | price: 3500\nMemory: Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 | price: 4000\nGPU: NVIDIA GeForce RTX 3060 Ti | price: 12000\nSSD: Samsung 970 EVO Plus 1TB | price: 2200\nPower Supply: Seasonic Focus GX-750, 80+ Gold | price: 3500\nCase: NZXT H510 | price: 2000\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 400\n總價: 37100",
+    "winner": 0,
+    "buildmate_avg_score": 3.0,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置CPU/GPU均衡，適合深度學習，散熱與電源穩定；BuildMate GPU效能不足，整體配置不平衡，浪費預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，GPU效能適合深度學習，預算分配合理；BuildMate GPU性能嚴重不足，預算浪費在不必要的主板與散熱上，效能低下。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，GPU效能適合深度學習，預算分配合理；BuildMate GPU性能嚴重不足，預算浪費在主板與散熱，效能不符需求。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，GPU效能適合深度學習，散熱與電源穩定；BuildMate GPU效能嚴重不足，預算浪費於主板與散熱，無法滿足需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置均衡，GPU效能適合深度學習，預算分配合理；BuildMate GPU嚴重不足，預算浪費於高價主板與不必要的散熱，效能極低。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置均衡，GPU效能適合深度學習，預算分配合理；BuildMate GPU效能嚴重不足，預算浪費於高價主板與不必要的散熱，完全不符需求。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "預算大約20000元，尋求一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+    "buildmate_recommendation": "CPU: Intel Celeron G5900 | price: 800\nMotherboard: 華碩 PRIME B560M-A | price: 5000\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nGPU: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 2000\nSSD: ADATA SU635 480GB SSD | price: 1500\nPower Supply: 海盜船 RM550x 550W | price: 3500\nCase: Intel Core i3-10100 | price: 4000\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1500\n總價: 20300",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600G | price: 5500\nMotherboard: ASRock B550M-HDV | price: 3000\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1600\nGPU: AMD Radeon Graphics (內建) | price: 0\nSSD: Crucial P3 500GB NVMe | price: 1500\nPower Supply: Thermaltake Smart 500W | price: 1200\nCase: Cooler Master MasterBox Q300L | price: 1200\nCase Fan: ARCTIC P12 PWM PST | price: 300\n總價: 14300",
+    "winner": 0,
+    "buildmate_avg_score": 3.1666666666666665,
+    "gpt4o_avg_score": 9.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置CPU效能高、內建GPU足夠應付需求，散熱與電源穩定；BuildMate CPU性能不足且配置不均衡。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o效能足夠、預算分配合理，內建GPU滿足需求；BuildMate CPU性能過低，主機板與電源過度高配，配置失衡。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o符合需求，CPU效能足夠，內建GPU滿足多開瀏覽器，預算分配合理；BuildMate CPU性能過低且主機板與電源過度高配，配置失衡且超出預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，Ryzen 5 5600G內建GPU效能足夠，散熱與電源穩定；BuildMate CPU性能過低，主機板與電源過度高配，配置失衡且浪費預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2,
+          "reason": "gpt4o效能均衡，Ryzen 5 5600G內建GPU滿足需求，預算分配合理；BuildMate CPU性能過低，主機板與電源過度高配，配置嚴重失衡且浪費預算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 2,
+          "reason": "gpt4o配置均衡，Ryzen 5 5600G內建GPU效能足夠，記憶體與儲存空間滿足需求，預算分配合理；BuildMate CPU性能過低且主機板與電源過度高配，配置失衡且浪費預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "想請問80000元左右，能組出來什麼級別的遊戲主機？想玩些新遊戲，畫質要好。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8000\nMotherboard: ASUS ROG Strix B550-F Gaming | price: 5500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3200\nGPU: NVIDIA GeForce RTX 3060 | price: 18900\nSSD: Corsair RM650x | price: 4500\nPower Supply: Corsair RM650x | price: 4500\nCase: Cooler Master MasterBox Q300L | price: 1990\nCase Fan: Cooler Master Hyper 212 Black Edition | price: 1500\n總價: 48090",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5800\nMotherboard: MSI B550-A PRO | price: 3800\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: NVIDIA GeForce RTX 3060 Ti | price: 11000\nSSD: Western Digital Black SN750 1TB | price: 2200\nPower Supply: Seasonic Focus GX-650 80+ Gold | price: 3200\nCase: NZXT H510 | price: 2000\nCase Fan: ARCTIC P12 PWM PST | price: 300\n總價: 30100",
+    "winner": 0,
+    "buildmate_avg_score": 6.166666666666667,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o的CPU/GPU均衡，散熱與電源品質充足；BuildMate GPU效能稍弱，電源過剩且散熱方案不夠精準。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o的GPU效能更強，價格更合理，散熱與電源配置足夠；BuildMate GPU性價比低，電源與散熱過度配置，預算分配不均。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，符合遊戲需求且價格合理；BuildMate GPU性價比低，電源與散熱過度配置，總價未充分利用預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o的CPU/GPU均衡，RTX 3060 Ti效能更強，散熱與電源配置充足；BuildMate GPU效能較弱，電源與散熱過度配置，性價比偏低。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o整體效能更均衡，RTX 3060 Ti性價比高，電源與散熱配置合理；BuildMate GPU效能偏弱，電源與散熱過度配置，預算分配不佳。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，RTX 3060 Ti效能更高，價格合理，散熱與電源足夠；BuildMate GPU效能偏弱，電源與散熱過度配置，總價未充分利用預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "工作需要，我要一台能跑Solidworks和AutoCAD的工作站，預算大概60000元，有建議嗎？",
+    "buildmate_recommendation": "CPU: Intel 第九代 i5-9600K | price: 6000\nMotherboard: ASUS Pro WS X299 Sage | price: 12000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 6000\nGPU: NVIDIA GeForce GTX 1660 Super | price: 8000\nSSD: Corsair RM850x 850W 80 Plus Gold | price: 5000\nPower Supply: 電源供應器 Seasonic Focus GX-850 (850W) | price: 5000\nCase: Intel Core i9-10920X | price: 13000\nCase Fan: Noctua NH-D15 | price: 4000\n總價: 59000",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5500\nMotherboard: MSI B550M PRO-VDH WIFI | price: 3500\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7000\nSSD: Crucial P3 1TB NVMe SSD | price: 2200\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2500\nCase: NZXT H510 | price: 2000\nCase Fan: ARCTIC P12 PWM PST | price: 300\n總價: 24800",
+    "winner": 1,
+    "buildmate_avg_score": 5.777777777777778,
+    "gpt4o_avg_score": 4.888888888888889,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 5,
+          "buildmate_score": 7,
+          "reason": "gpt4o配置效能不足，特別是記憶體與CPU對工作站需求偏弱；BuildMate雖有過剩元件，但記憶體充足、散熱與穩定性較佳。"
+        },
+        "Agent2": {
+          "gpt4o_score": 6,
+          "buildmate_score": 4,
+          "reason": "gpt4o預算利用率高，但記憶體不足、CPU效能偏弱；BuildMate配置過剩且不均，主機板與電源浪費預算，效能提升有限。"
+        },
+        "Agent3": {
+          "gpt4o_score": 4,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能不足，記憶體容量與CPU無法滿足Solidworks/AutoCAD需求；BuildMate效能過剩，部分元件如主機板與電源浪費預算，GPU也稍弱。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 5,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能不足，記憶體與CPU性能無法滿足專業需求；BuildMate配置過剩，主機板與電源浪費預算，但記憶體與散熱較佳，穩定性稍強。"
+        },
+        "Agent2": {
+          "gpt4o_score": 6,
+          "buildmate_score": 5,
+          "reason": "gpt4o價格低但效能不足，記憶體與GPU對CAD需求偏弱；BuildMate配置過剩，主機板與電源浪費預算，CPU與GPU性價比不高，預算未用在刀口上。"
+        },
+        "Agent3": {
+          "gpt4o_score": 4,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能嚴重不足，記憶體容量與GPU無法滿足Solidworks/AutoCAD需求；BuildMate效能過剩，主機板與電源浪費預算，GPU性價比偏低，預算分配不均。"
+        }
+      },
+      {
+        "round_number": 3,
+        "Agent1": {
+          "gpt4o_score": 5,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能不足，記憶體與GPU容量無法滿足Solidworks/AutoCAD需求；BuildMate配置過剩，主機板與電源浪費預算，但記憶體與散熱較佳，穩定性稍強。"
+        },
+        "Agent2": {
+          "gpt4o_score": 5,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能不足，記憶體與GPU對Solidworks/AutoCAD需求偏弱；BuildMate配置過剩，主機板與電源浪費預算，但記憶體與散熱較佳，穩定性稍強。"
+        },
+        "Agent3": {
+          "gpt4o_score": 4,
+          "buildmate_score": 6,
+          "reason": "gpt4o效能不足，記憶體與GPU無法滿足Solidworks/AutoCAD需求；BuildMate效能過剩，主機板與電源浪費預算，GPU仍稍弱，預算分配不均。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "有沒有推薦的遊戲主機配置？預算在45000元，想要玩 POE、APEX等槍戰、LOL。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12000\nMotherboard: ASUS TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3000\nGPU: NVIDIA GeForce GTX 1650 | price: 5000\nSSD: Corsair RM650x 650W 全模組化電源 | price: 4000\nPower Supply: NVIDIA GeForce RTX 3060 | price: 12000\nCase: AMD Ryzen 5 5600X | price: 8500\nCase Fan: Cooler Master Hyper 212 RGB | price: 1800\n總價: 50800",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550M PRO-VDH WIFI | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6500\nSSD: Crucial P3 1TB NVMe SSD | price: 2200\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2500\nCase: NZXT H510 | price: 1800\nCase Fan: ARCTIC P12 PWM PST | price: 300\n總價: 24380",
+    "winner": 0,
+    "buildmate_avg_score": 4.666666666666667,
+    "gpt4o_avg_score": 8.166666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，CPU/GPU匹配，散熱與電源穩定；BuildMate GPU選擇過低，效能瓶頸明顯，性價比不佳。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，效能符合預算需求，適合遊戲；BuildMate CPU過高，GPU過低，效能嚴重失衡，預算分配不合理。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，效能足夠應對POE、APEX等遊戲，性價比高；BuildMate GPU效能過低，CPU過高，預算分配失衡且超出預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，CPU/GPU效能匹配，散熱與電源穩定，性價比高；BuildMate GPU效能不足，CPU過高，預算分配失衡且超出預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，CPU/GPU效能匹配，適合POE、APEX等遊戲，預算利用率高；BuildMate GPU效能過低，CPU過高，預算分配失衡且超出預算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，CPU/GPU效能匹配，適合POE、APEX等遊戲，性價比高；BuildMate GPU效能不足，CPU過高，預算分配失衡且超出預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "預算約45000元，需要一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+    "buildmate_recommendation": "CPU: Intel Core i7-10700K | price: 12000\nMotherboard: ASUS ROG Strix Z490-E Gaming | price: 12000\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz | price: 8000\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6000\nSSD: NVIDIA GeForce RTX 3060 | price: 15000\nPower Supply: Corsair RM750x 750W 全模組化電源供應器 | price: 5000\nCase: Intel Core i7-10700K | price: 12000\nCase Fan: Noctua NH-D15 | price: 4500\n總價: 74500",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 6200\nMotherboard: MSI B550-A PRO | price: 3500\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7000\nSSD: Crucial P3 1TB NVMe SSD | price: 2200\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2500\nCase: NZXT H510 | price: 2000\nCase Fan: ARCTIC P12 PWM | price: 300\n總價: 25500",
+    "winner": 0,
+    "buildmate_avg_score": 5.833333333333333,
+    "gpt4o_avg_score": 6.333333333333333,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "gpt4o配置效能不足，特別是記憶體與GPU；BuildMate效能強大，RAM與散熱充足，但預算超標且GPU與需求不完全匹配。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o價格低但效能不足，特別是RAM與GPU對Adobe需求偏弱；BuildMate效能過剩，預算嚴重超標且部分零件性價比低。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 5,
+          "reason": "gpt4o效能不足，特別是RAM與GPU對Adobe需求偏弱；BuildMate效能過剩且預算嚴重超標，GPU與需求不符，性價比低。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 6,
+          "buildmate_score": 7,
+          "reason": "gpt4o效能不足，RAM與GPU對Adobe需求偏弱；BuildMate效能強大，RAM與散熱充足，但預算嚴重超標，GPU與需求不符。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o價格低且符合預算，但RAM與GPU效能稍弱；BuildMate效能過剩，預算嚴重超標，且RTX 3060對需求不完全必要。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 5,
+          "reason": "gpt4o效能不足，特別是RAM與GPU對Adobe需求偏弱；BuildMate效能過剩，預算嚴重超標，RTX 3060與需求不符，性價比低。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "我需要一台適合股市分析的電腦，預算大概30000元，需要大量運算和多螢幕，有什麼好提議？",
+    "buildmate_recommendation": "CPU: Intel 第八代 i5-8400 | price: 4500\nMotherboard: ASUS TUF Gaming B460M-Plus | price: 4500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3000\nGPU: NVIDIA GeForce GTX 1050 Ti | price: 800\nSSD: Corsair RM750x 750W 電源供應器 | price: 5000\nPower Supply: ASUS ROG Strix Z490-E Gaming | price: 8000\nCase: Cooler Master MasterBox Q300L | price: 1500\nCase Fan: Noctua NH-U12S Redux | price: 2500\n總價: 29800",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550-A PRO | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6500\nSSD: Crucial P3 1TB NVMe SSD | price: 2200\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2500\nCase: NZXT H510 | price: 1800\nCase Fan: ARCTIC P12 PWM | price: 300\n總價: 25080",
+    "winner": 0,
+    "buildmate_avg_score": 3.8333333333333335,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置CPU/GPU均衡，散熱與電源穩定；BuildMate使用過時CPU/GPU，電源與主機板過度高配，效能失衡。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，CPU/GPU效能適合運算與多螢幕，預算利用率高；BuildMate用過時CPU/GPU，電源與主機板過度高配，效能浪費。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，CPU/GPU效能適合股市分析與多螢幕，預算利用率高；BuildMate用過時CPU/GPU，主機板與電源過度高配，效能浪費且不符需求。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，CPU/GPU效能適合運算與多螢幕，散熱與電源穩定；BuildMate用過時CPU/GPU，主機板與電源過度高配，效能浪費且不符需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，CPU/GPU效能適合股市分析與多螢幕，預算分配合理；BuildMate用過時CPU/GPU，主機板與電源過度高配，效能嚴重浪費。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，CPU/GPU效能適合股市分析與多螢幕，預算分配合理；BuildMate用過時CPU/GPU，主機板與電源過度高配，效能浪費且不符需求。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "想要組一台約65000元的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 12900\nMotherboard: ASUS ROG Strix B550-F Gaming (Wi-Fi) | price: 8500\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz | price: 3200\nGPU: NVIDIA GeForce RTX 3060 | price: 15000\nSSD: Corsair RM750x 750W 80 Plus Gold | price: 5000\nPower Supply: Noctua NH-U12S Redux | price: 2800\nCase: AMD Ryzen 7 5800X | price: 12900\nCase Fan: Noctua NF-A12x25 PWM 120mm風扇 | price: 2000\n總價: 62300",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: MSI B550M PRO-VDH WIFI | price: 3490\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1800\nGPU: AMD Radeon RX 6700 XT | price: 13900\nSSD: Western Digital Black SN750 1TB | price: 2200\nPower Supply: Seasonic Focus GX-650, 80+ Gold | price: 3200\nCase: NZXT H510 | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 300\n總價: 33380",
+    "winner": 0,
+    "buildmate_avg_score": 6.333333333333333,
+    "gpt4o_avg_score": 8.833333333333334,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o配置CPU/GPU均衡，散熱與電源穩定；BuildMate CPU過於強調，GPU效能不足，散熱與電源過剩。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，GPU效能更適合VR遊戲，預算分配合理；BuildMate過度強調CPU與主機板，GPU效能不足，影響遊戲體驗。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，GPU效能適合VR遊戲，預算分配合理；BuildMate過度強調CPU與主機板，GPU效能不足，影響VR體驗，且散熱與電源過剩。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o配置均衡，GPU效能更適合VR遊戲，散熱與電源設計充足；BuildMate CPU過剩，GPU效能不足，散熱與電源配置過於高規，預算分配不合理。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，GPU效能適合VR遊戲，預算分配合理；BuildMate CPU與主機板過剩，GPU效能不足，散熱與電源規格過高，預算浪費。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置均衡，GPU效能適合VR遊戲，預算分配合理，散熱與電源足夠；BuildMate CPU與主機板過剩，GPU效能不足，散熱與電源過度規格，預算浪費。"
+        }
+      }
+    ]
+  }
+]

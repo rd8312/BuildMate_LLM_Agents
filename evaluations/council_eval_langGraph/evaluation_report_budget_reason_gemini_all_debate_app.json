@@ -1,0 +1,1411 @@
+[
+  {
+    "question_id": 1,
+    "question": "預算約50000元，想要一台能高效運行AutoCAD進行工程繪圖與設計的電腦，特別需要多核心CPU來加速運算。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8500\nMotherboard: 技嘉 B550 AORUS ELITE | price: 3000\nMemory: 金士頓 HyperX Fury DDR4 | price: 4000\nGPU: 微星 GeForce RTX 3060 Ti | price: 14500\nStorage: 威剛 SD620 SSD | price: 3500\nPower Supply: 華碩 ROG Strix 750W | price: 2900\nCase: 全漢 H500 RGB | price: 1999\nCase Fan: 聯力 Silent Breeze | price: 950\n總價: 39349",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 2390\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic S12III 550W 80+ Bronze | price: 2490\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26420",
+    "winner": 0,
+    "buildmate_avg_score": 0,
+    "gpt4o_avg_score": 0,
+    "rounds": []
+  },
+  {
+    "question_id": 2,
+    "question": "預算大概35000元，需要一台能流暢執行Photoshop圖像編輯的電腦，GPU加速很重要。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8500\nMotherboard: 華碩 ROG Strix B450-F Gaming | price: 3000\nMemory: 美光 Crucial Ballistix 5000MHz | price: 4800\nGPU: 微星 GeForce RTX 3060 Ti | price: 14500\nStorage: 三星 T7 Portable SSD | price: 2999\nPower Supply: 海韻 Power X200 | price: 1899\nCase: 全漢 HF120 | price: 1500\nCase Fan: 聯力 Silent Breeze Fan | price: 500\n總價: 37698",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF GAMING B550M-PLUS (Wi-Fi) (M-ATX) | price: 3590\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1890\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 29430",
+    "winner": 0,
+    "buildmate_avg_score": 4.666666666666667,
+    "gpt4o_avg_score": 8.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o均衡且價格合理; BuildMate記憶體昂貴，外接SSD不適合系統碟，電源瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，價格合理；BuildMate記憶體過快，SSD外接影響效能，電源瓦數不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置合理，價格符合預算；BuildMate記憶體過快不符效益，外接SSD和低瓦數電源不適合，超出預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡，價格合理；BuildMate記憶體頻率過高，外接SSD和低瓦數電源不適合PS，超出預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，價格合理；BuildMate記憶體過快，外接SSD和低瓦數電源不適合，超出預算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，價格合理；BuildMate記憶體過快，外接SSD和低瓦數電源不適合，超出預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 3,
+    "question": "預算約30000元，希望有台能穩定跑Illustrator的電腦，CPU和內存要足夠強大，處理大型向量檔不會卡。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2500\nMemory: 金士頓 FURY 系列記憶體 | price: 4500\nGPU: 技嘉 RTX 3060 Ti | price: 14500\nStorage: 威剛 SX8200 Pro | price: 2990\nPower Supply: 華碩 Power Pro 2000 | price: 1999\nCase: 酷碼 Cooler Master MasterBox Q300L | price: 1500\nCase Fan: 威剛 X-Series風扇 | price: 999\n總價: 40488",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 2490\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 6990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 3290\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26820",
+    "winner": 0,
+    "buildmate_avg_score": 5.166666666666667,
+    "gpt4o_avg_score": 8.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o均衡且符合預算; BuildMate超預算且記憶體規格不明。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內提供均衡效能; BuildMate超出預算且記憶體規格模糊。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內，零件均衡，符合illustrator需求; BuildMate超預算，記憶體規格不清。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，價格合理; BuildMate超出預算，記憶體規格不清，電源過剩。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內，效能均衡; BuildMate嚴重超支，電源瓦數過高。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o價格合理，規格均衡，滿足illustrator需求; BuildMate超預算，電源過大。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 4,
+    "question": "我有約60000元預算，希望組一台能流暢剪接4K影片的電腦，用Premiere Pro時需強大GPU和大量記憶體。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 10000\nMotherboard: 華碩 ROG Strix B550-F Gaming | price: 2500\nMemory: 金士頓 HyperX Fury | price: 4500\nGPU: 微星 RTX 3060 Ti | price: 14500\nStorage: 三星970 EVO Plus SSD | price: 3400\nPower Supply: 海韻Power 2000 | price: 2000\nCase: 全漢 FSP CMT230 | price: 1500\nCase Fan: 聯力 Silent Breeze 120 | price: 500\n總價: 38900",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF Gaming B550-PLUS (ATX) | price: 3490\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3990\nGPU: NVIDIA GeForce RTX 3060 Ti 16GB | price: 15900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 43640",
+    "winner": 0,
+    "buildmate_avg_score": 5.666666666666667,
+    "gpt4o_avg_score": 7.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o散熱和電源較佳，CPU也較強。BuildMate主機板較好但電源和散熱不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o電源和散熱較佳，CPU較強。BuildMate主機板雖較高階但其他不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o電源和散熱較佳，CPU較強，整體更均衡。BuildMate主機板雖高階但電源不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o電源穩定性較佳，散熱方案明確。BuildMate電源瓦數不足，記憶體規格不明。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o電源較可靠，記憶體規格明確。BuildMate主機板雖高階但電源品質堪憂。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o散熱和電源較佳，記憶體規格明確。BuildMate記憶體規格模糊，電源瓦數低。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 5,
+    "question": "預算約65000元，想要一台能順暢處理After Effects動態特效的電腦，GPU和大容量內存非常關鍵。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3000\nMemory: 金士頓 HyperX Fury 16GB DDR4 | price: 5800\nGPU: 微星 RTX 3060 Ti | price: 15800\nStorage: 威剛 SX8200 Pro SSD | price: 3800\nPower Supply: 海韻 PowerX1 | price: 3000\nCase: 全漢 H500 | price: 1999\nCase Fan: 威剛 X-Fan 120 | price: 999\n總價: 45898",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5790\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 15900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-750, 750W 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 39030",
+    "winner": 1,
+    "buildmate_avg_score": 8.0,
+    "gpt4o_avg_score": 6.833333333333333,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate選擇7600X和3060Ti效能更佳，記憶體雖然較小但仍夠用，價格合理。gpt4o性價比高，但效能略遜一籌。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的7600X和3060Ti效能更佳，適合AE，記憶體雖小但夠用，價格合理。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "BuildMate的CPU和GPU效能更佳，適合AE，價格在預算內，記憶體稍小但可接受。gpt4o性價比高，但效能略遜。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的7600X和3060Ti提供更佳AE效能，但16GB記憶體略顯不足。gpt4o記憶體充足，但效能較弱。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的7600X和3060Ti提供更強AE效能，16GB記憶體略少但可接受。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate配置7600X/3060Ti效能更佳，記憶體較小但仍可擴充，價格合理。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 6,
+    "question": "預算50000元左右，需一台適合Blender 3D建模和GPU渲染的電腦，能加速NVIDIA CUDA運算。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 8500\nMotherboard: 華碩 ROG Strix B550-F Gaming | price: 3000\nMemory: 金士頓 HyperX Fury系列 | price: 5800\nGPU: 微星 RTX 3060 Ti | price: 14500\nStorage: 威剛 UV500 1TB SSD | price: 2999\nPower Supply: 海韻 Power 2000 | price: 1999\nCase: 全漢H500 | price: 1500\nCase Fan: 聯力 CoolMaster 120 | price: 480\n總價: 38778",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 9500\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI (AM5/M-ATX) | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 80 PLUS Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 40740",
+    "winner": 0,
+    "buildmate_avg_score": 4.666666666666667,
+    "gpt4o_avg_score": 7.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o整體均衡，零件選擇較佳。BuildMate記憶體價格異常，電源供應器瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置較合理。BuildMate記憶體價格過高，電源供應器瓦數和品質不足以支援3060Ti。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o較均衡，BuildMate記憶體價格異常，電源供應器瓦數和品質不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，電源穩定。BuildMate記憶體溢價，電源品質堪憂。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置合理，電源穩定。BuildMate記憶體溢價，電源品質堪憂。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置均衡，價格合理。BuildMate記憶體溢價嚴重，電源品質堪憂。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 7,
+    "question": "預算70000元，想組一台能高效運行3ds Max的工作站，要求對GPU和CPU性能都有極高規格。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2499\nMemory: 美光 Crucial Ballistix 16GB DDR4 | price: 4800\nGPU: 微星 RTX 3060 Ti | price: 17900\nStorage: 威剛 SX8200 Pro SSD | price: 2800\nPower Supply: 華碩 Power Z1500 | price: 1499\nCase: 酷碼 X3 RGB機殼 | price: 1499\nCase Fan: 聯力 Silent Breeze 120 | price: 499\n總價: 39496",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 9 7950X | price: 18900\nMotherboard: 華碩 ROG STRIX X670E-E GAMING WIFI | price: 10900\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR5-6000 | price: 4500\nGPU: NVIDIA GeForce RTX 4080 16GB | price: 29900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Corsair RM850x 850W 80 Plus Gold | price: 4000\nCase: Fractal Design Meshify C | price: 2500\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 75000",
+    "winner": 0,
+    "buildmate_avg_score": 2.8333333333333335,
+    "gpt4o_avg_score": 7.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置更均衡，效能更佳，但略超出預算。BuildMate配置低，不符合高效需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o符合高效需求，但略微超預算。BuildMate配置過低，性價比不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 3,
+          "reason": "gpt4o效能佳，但略微超預算。BuildMate配置低，不符3ds Max需求。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o效能極佳，但超預算。BuildMate嚴重低配，不符3ds Max需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 2,
+          "reason": "gpt4o高性能，但超出預算。BuildMate配置過低，無法滿足3ds Max需求。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 2,
+          "reason": "gpt4o高性能符合需求，但超預算。BuildMate配置過低，無法運行3ds Max。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 8,
+    "question": "大約75000元預算，需要一台能在Maya中順暢做3D建模和專業動畫渲染的電腦。",
+    "buildmate_recommendation": "CPU: Intel Core i7-12700K | price: 11900\nMotherboard: 華碩 ROG Strix B550-F Gaming | price: 3000\nMemory: 金士頓 HyperX Fury系列 | price: 6000\nGPU: 微星 GeForce RTX 3060 Ti | price: 15500\nStorage: 威剛 XPG SX8200 Pro NVMe SSD | price: 3500\nPower Supply: 海韻Power 2000 | price: 2000\nCase: 全漢H500 RGB電競機殼 | price: 1450\nCase Fan: 聯力 PowerFan 500 | price: 500\n總價: 43850",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8500\nMotherboard: MSI B550-A PRO | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3200\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 15000\nStorage: Samsung 970 EVO Plus 1TB NVMe SSD | price: 3500\nPower Supply: Corsair RM750x (750W) 80 Plus Gold | price: 3500\nCase: NZXT H510 | price: 2000\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 41000",
+    "winner": 0,
+    "buildmate_avg_score": 7.0,
+    "gpt4o_avg_score": 7.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的CPU和主機板組合更佳，記憶體規格更清楚，整體效能更強。gpt4o價格較低。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格更低，且CPU與主機板搭配合理。BuildMate主機板與CPU不相容。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate配置更符合3D建模和渲染需求，記憶體容量更大，處理器效能更佳，但價格略高。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate i7-12700K效能更佳於3D建模及渲染，但主機板B550不支援。記憶體規格需明確。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格合理，CPU與主機板相容。BuildMate記憶體規格不清，主機板不支援CPU。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "BuildMate主機板與CPU不相容(12代需B660以上)，記憶體規格模糊。gpt4o性價比更高。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 9,
+    "question": "預算約45000元，需要一台能流暢使用ZBrush進行數位雕刻的電腦，要求大容量內存和高速儲存。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600 | price: 12000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3000\nMemory: 金士頓 HyperX Fury系列 | price: 3999\nGPU: 技嘉 RTX 3070 | price: 17900\nStorage: 三星 970 EVO Plus SSD | price: 3000\nPower Supply: 海韻Power X2000 | price: 1999\nCase: 全漢精英系列Case | price: 2000\nCase Fan: 聯力 UltraCool Fan | price: 950\n總價: 44848",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 39140",
+    "winner": 1,
+    "buildmate_avg_score": 8.0,
+    "gpt4o_avg_score": 7.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的3070顯卡效能更佳，較適合ZBrush高負載運算，整體配置更均衡。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3070顯卡效能更佳，更適合ZBrush高負載運算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3070更適合ZBrush高負載運算，價格更接近預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3070顯卡效能明顯優於RTX 3060，更適合ZBrush。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3070效能更強，更適合ZBrush高負載運算，價格合理。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3070更適合ZBrush，且價格更接近預算上限，物盡其用。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 10,
+    "question": "預算約60000元，想要一台能跑SolidWorks工程設計軟體的工作站，多核心CPU和中高階GPU不可少。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 金士頓 HyperX Fury系列 | price: 5500\nGPU: 微星 GeForce RTX 3060 Ti | price: 14500\nStorage: 威剛 XPG SX8200 Pro M.2 NVMe SSD | price: 3500\nPower Supply: 海韻 PowerMax 2000 | price: 2000\nCase: CoolerMaster MasterBox Q300L | price: 1499\nCase Fan: 聯力 L系列風扇 | price: 500\n總價: 41998",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF GAMING B550-PLUS (ATX/AM4/Realtek 1Gb) | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 2990\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2890\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 34830",
+    "winner": 1,
+    "buildmate_avg_score": 8.166666666666666,
+    "gpt4o_avg_score": 6.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate選擇7600X和3060Ti更符合需求，電源供應器選擇較佳。GPT4o價格較低。"
+        },
+        "Agent2": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "BuildMate的CPU和GPU選擇更符合SolidWorks需求，電源也較佳，整體CP值較高。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "BuildMate的CPU和GPU選擇更符合SolidWorks需求，電源也較佳。GPT4o價格較低，但效能不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "BuildMate的7600X和3060Ti效能更佳，電源品質也較好，適合SolidWorks。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 9,
+          "reason": "BuildMate配置更均衡，7600X/3060Ti效能優異，電源也較可靠。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的7600X和3060Ti更適合SolidWorks，電源也更穩定。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 11,
+    "question": "有大約55000元預算，想買台能穩定跑Revit做建築設計與BIM建模的電腦，需要充裕內存和不錯的GPU。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11000\nMotherboard: 技嘉 B550 AORUS Elite | price: 2999\nMemory: 美光 Crucial Ballistix系列記憶體 | price: 6000\nGPU: 微星 GeForce RTX 3060 Ti | price: 18000\nStorage: 威剛 XPG GAMMIX S70 SSD | price: 3999\nPower Supply: 華碩 ROG Strix Power 3000 | price: 2999\nCase: 酷碼 CoolMaster X2000 | price: 2000\nCase Fan: 聯力 Silent Breeze Fan | price: 950\n總價: 47947",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 2990\nPower Supply: Seasonic Focus GX-650, 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 31930",
+    "winner": 0,
+    "buildmate_avg_score": 5.5,
+    "gpt4o_avg_score": 7.666666666666667,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o均衡且價格合理; BuildMate的CPU/GPU搭配不均衡，記憶體規格不明確。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o性價比高，零件均衡；BuildMate記憶體價格模糊，顯卡提升有限但價格增加明顯。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格合理，效能均衡；BuildMate記憶體價格高且規格模糊，顯卡升級不符效益。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，滿足需求；BuildMate CPU/GPU升級幅度與價格不符，記憶體價格過高。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，符合預算和需求；BuildMate升級CPU/GPU但效益有限，記憶體價格過高。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，符合預算；BuildMate記憶體價格異常，顯卡升級效益低。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 12,
+    "question": "預算60000元左右，要一台能在DaVinci Resolve中流暢剪輯與調色的電腦，GPU加速效果很重要。",
+    "buildmate_recommendation": "CPU: Intel Core i5-12600K | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 金士頓 Fury 系列記憶體 | price: 4000\nGPU: 微星 GeForce RTX 3060 Ti | price: 17900\nStorage: 威剛 SU800 SSD | price: 2500\nPower Supply: 海韻 Power Pro 3000 | price: 2000\nCase: 全漢 FC5 | price: 1500\nCase Fan: 聯力 Silent Breeze | price: 500\n總價: 42899",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 7990\nMotherboard: 華碩 TUF Gaming B650-PLUS WiFi (AM5) | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 2390\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 金牌全模組 | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 38730",
+    "winner": 0,
+    "buildmate_avg_score": 5.888888888888889,
+    "gpt4o_avg_score": 6.888888888888889,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o在CPU/主機板搭配較合理，記憶體規格明確，電源供應器品質較佳。BuildMate選用SATA SSD效能瓶頸。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o平台較新且均衡，BuildMate記憶體規格模糊、電源及SSD有明顯缺陷。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o整體均衡，記憶體規格明確。BuildMate的SSD是SATA，記憶體規格模糊、電源瓦數不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o電源穩定，NVMe SSD速度佳。BuildMate SATA SSD效能低，記憶體規格不明確，電源瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 6,
+          "buildmate_score": 7,
+          "reason": "BuildMate的3060Ti和i5-12600K對DaVinci Resolve效能提升較大，值得價差。gpt4o記憶體略少。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 7,
+          "reason": "BuildMate的3060Ti和i5-12600K對DaVinci Resolve效能提升較大，更符合需求。"
+        }
+      },
+      {
+        "round_number": 3,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o NVMe SSD及電源穩定性較佳。BuildMate記憶體規格模糊，電源品質堪慮。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o的NVMe SSD和電源更佳。BuildMate記憶體規格模糊，電源品質較差。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o的NVMe SSD和電源更佳。BuildMate記憶體規格模糊，電源品質較差。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 13,
+    "question": "預算50000元左右，需要能跑Vegas Pro的電腦，多核CPU和高效能GPU是必須，以加快影片編輯。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10500\nMotherboard: 技嘉 B550 AORUS Elite | price: 2500\nMemory: 美光 Crucial Ballistix 16GB DDR4 | price: 4500\nGPU: 微星 GeForce RTX 3060 Ti | price: 14500\nStorage: 威剛 SX8200 Pro | price: 3299\nPower Supply: 海韻 PowerX2000 | price: 2000\nCase: 全漢 H500 | price: 1490\nCase Fan: 威剛 Xtreme Fan 120 | price: 500\n總價: 39289",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 8500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 4500\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2500\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 14500\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3500\nPower Supply: Cooler Master MWE Gold 750W | price: 3000\nCase: NZXT H510 | price: 2000\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 800\n總價: 39300",
+    "winner": 0,
+    "buildmate_avg_score": 5.666666666666667,
+    "gpt4o_avg_score": 7.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o散熱和電源配置較佳，BuildMate主機板價格異常，記憶體容量不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o記憶體容量符合需求，BuildMate主機板價格異常低，電源功率不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，BuildMate主機板價格異常低，記憶體容量不足，電源瓦數也偏低。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o記憶體容量較BuildMate佳，BuildMate主機板價格異常低，電源功率可能不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o記憶體容量符合影片編輯需求，BuildMate主機板價格異常低，電源功率不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o記憶體容量符合剪輯需求，BuildMate主機板價格異常，電源功率不足。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 14,
+    "question": "預算約65000元，希望組一台適合Cinema 4D動畫與渲染的電腦，GPU和內存絕不能馬虎。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 11000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 美光 Crucial Ballistix系列記憶體 | price: 4000\nGPU: 微星 GeForce RTX 3060 Ti | price: 17000\nStorage: 三星970 EVO Plus NVMe SSD | price: 3500\nPower Supply: 海韻PowerPro 2000 | price: 2000\nCase: 全漢 HF系列機殼 | price: 1200\nCase Fan: 威剛 XFan Pro | price: 999\n總價: 42698",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 9 5900X | price: 10900\nMotherboard: MSI MAG B550 TOMAHAWK | price: 4990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2890\nGPU: NVIDIA GeForce RTX 3060 Ti 8GB | price: 15900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3990\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 2990\nCase: Fractal Design Meshify C | price: 1990\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 44440",
+    "winner": 0,
+    "buildmate_avg_score": 4.833333333333333,
+    "gpt4o_avg_score": 7.166666666666667,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o在CPU、主機板和電源供應器選擇更佳，整體效能和穩定性略勝一籌。BuildMate記憶體規格模糊。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o電源和記憶體規格明確，整體均衡性較佳。BuildMate記憶體和電源資訊不足，難以評估。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o規格詳細，滿足需求且均衡。BuildMate記憶體、SSD、電源規格不明確，難以評估。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o散熱和電源更可靠，記憶體規格明確。BuildMate記憶體、SSD、電源規格模糊。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o記憶體規格明確，電源更可靠。BuildMate記憶體、SSD、電源規格模糊，影響評估。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o規格明確，電源更符合高階配置需求。BuildMate記憶體、SSD、電源規格模糊，難以評估。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 15,
+    "question": "預算大約40000元，想組一台能執行MATLAB科學計算的電腦，多核心處理器與大內存很關鍵。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 9500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 美光 Crucial Ballistix系列 | price: 5500\nGPU: 技嘉 GeForce RTX 3060 Ti | price: 14900\nStorage: 三星 T7 Portable SSD | price: 3299\nPower Supply: 華碩ROG Strix Power 600 | price: 2400\nCase: 全漢H500 | price: 1500\nCase Fan: 聯力 超靜音120mm Fan | price: 500\n總價: 40598",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF GAMING B550-PLUS (ATX/AM4/DDR4) | price: 3990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2990\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 6490\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 2990\nPower Supply: Seasonic S12III 650W 80+ Bronze | price: 2490\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 27120",
+    "winner": 0,
+    "buildmate_avg_score": 5.166666666666667,
+    "gpt4o_avg_score": 8.166666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o在預算內提供均衡效能，BuildMate超出預算且SSD選擇不適合系統碟。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內提供良好配置。BuildMate超出預算，且外接SSD不適合系統碟。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內，CPU與記憶體符合需求。BuildMate超出預算，且外接SSD不適合MATLAB。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡且符合預算。BuildMate超出預算，外接SSD影響MATLAB效能。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，符合預算。BuildMate外接SSD嚴重影響MATLAB效能。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o在預算內，配置均衡，適合MATLAB。BuildMate超出預算，外接SSD效能瓶頸。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 16,
+    "question": "預算80000元，我需要一台能順暢跑Unreal Engine的開發機，高效能GPU和多核CPU都要有。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 7500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 美光 Crucial Ballistix系列 | price: 4500\nGPU: 微星 GeForce RTX 3060 Ti | price: 17900\nStorage: 威剛 XPG SX8200 Pro SSD | price: 2999\nPower Supply: 海韻Power 2000 | price: 1999\nCase: 酷碼K1機殼 | price: 1500\nCase Fan: 聯力 Silent Breeze 120mm Fan | price: 500\n總價: 39897",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 9 7900X | price: 12900\nMotherboard: 華碩 ROG STRIX B650E-F GAMING WIFI | price: 5990\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR5-6000 | price: 4990\nGPU: NVIDIA GeForce RTX 4070 12GB | price: 24900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3490\nPower Supply: Seasonic Focus GX-850 850W 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1590\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 58640",
+    "winner": 0,
+    "buildmate_avg_score": 4.833333333333333,
+    "gpt4o_avg_score": 8.166666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置更均衡，效能更佳，適合Unreal Engine開發。BuildMate選擇較低階，不符合需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o較佳，CPU/GPU符合預算內高效能需求。BuildMate過於低階，無法滿足Unreal Engine開發。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置更均衡，效能更佳，符合Unreal Engine開發需求。BuildMate效能不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o效能更佳，7900X/4070組合能勝任高負載開發。BuildMate配置低，不適合Unreal Engine。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o的7900X/4070組合能高效運行Unreal Engine。BuildMate的3060ti效能不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o的7900X/4070組合能滿足Unreal Engine開發需求。BuildMate的3060ti效能不足。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 17,
+    "question": "預算約50000元，希望有一台能在高畫質下跑Cyberpunk 2077的電腦，需要強悍的GPU（如RTX系列）。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 9000\nMotherboard: 技嘉 B550 AORUS ELITE | price: 2999\nMemory: 金士頓 HyperX Fury系列記憶體 | price: 4800\nGPU: 技嘉 RTX 3060 Ti GAMING OC | price: 14900\nStorage: 威剛 SX8200 Pro SSD | price: 2999\nPower Supply: 華碩 Power 2000PRO | price: 1999\nCase: 酷碼 CoolMaster X1 | price: 1500\nCase Fan: Lian Li UNI Fan SL120 | price: 500\n總價: 38697",
+    "gpt4o_recommendation": "CPU: Intel Core i7-12700K | price: 10900\nMotherboard: 華碩 ROG STRIX Z690-E GAMING WIFI | price: 7490\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 2990\nGPU: NVIDIA GeForce RTX 3070 8GB | price: 18900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 2990\nPower Supply: Seasonic Focus GX-850 (850W 80+ Gold) | price: 3990\nCase: NZXT H510 | price: 1990\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 50040",
+    "winner": 1,
+    "buildmate_avg_score": 7.666666666666667,
+    "gpt4o_avg_score": 7.166666666666667,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o配置更均衡，效能更佳，散熱和電源也更可靠。BuildMate則性價比更高。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o過於追求高階CPU，壓縮GPU預算。BuildMate在預算內達到需求。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o雖效能佳但超出預算，BuildMate在預算內提供合適效能。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o效能更佳但超出預算，BuildMate在預算內提供穩定且足夠的效能。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o高階CPU不符CP值，BuildMate更均衡並符合預算玩Cyberpunk 2077。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "gpt4o超出預算，且CPU效能過剩。BuildMate性價比高，符合需求。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 18,
+    "question": "預算60000元左右，想組一台流暢運行Red Dead Redemption 2的電腦，GPU、CPU和內存都要高規。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 9000\nMotherboard: 技嘉 B450 AORUS Elite | price: 2999\nMemory: 金士頓 HyperX Fury系列內存 | price: 4500\nGPU: 技嘉 GeForce RTX 3060 Ti Gaming OC | price: 14900\nStorage: 威剛 XPG SX8200 Pro SSD | price: 3500\nPower Supply: 華碩 PowerBoost 2000 | price: 1999\nCase: 酷碼 K1 Case | price: 1500\nCase Fan: 威剛 XFan 120 Pro | price: 999\n總價: 39397",
+    "gpt4o_recommendation": "CPU: Intel Core i7-12700K | price: 10900\nMotherboard: 華碩 ROG STRIX Z690-E GAMING WIFI (ATX) | price: 6990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 Ti 12GB | price: 15900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 46240",
+    "winner": 0,
+    "buildmate_avg_score": 3.8333333333333335,
+    "gpt4o_avg_score": 7.166666666666667,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置較均衡，效能更佳。BuildMate主機板與CPU不相容，且電源供應器瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o效能更佳，整體均衡。BuildMate主機板與CPU不相容，記憶體規格不明。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o配置較佳，但記憶體略小。BuildMate主機板與CPU不相容。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 3,
+          "reason": "gpt4o效能佳，但記憶體容量略小。BuildMate CPU與主機板不相容，且電源供應器規格不明。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o效能更佳，但價格較高。BuildMate CPU與主機板不相容。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 3,
+          "reason": "gpt4o效能更佳，但記憶體略小。BuildMate主機板與CPU不相容。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 19,
+    "question": "預算約40000元，我想要一台能長期流暢玩GTA V的主機，硬體規格要足以應對大型開放世界遊戲。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 9500\nMotherboard: 華碩 TUF Gaming B550M-Plus | price: 2499\nMemory: 金士頓 HyperX Fury | price: 4500\nGPU: 技嘉 RTX 3060 Ti GAMING OC | price: 14900\nStorage: 威剛 SX8200 Pro SSD | price: 3200\nPower Supply: 海韻 PowerMaster 2000 | price: 2000\nCase: 酷碼 CoolCase Pro | price: 1500\nCase Fan: 威剛X系列風扇 | price: 500\n總價: 38599",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 7490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1890\nPower Supply: Seasonic Focus GX-650 (650W) | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1390\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 690\n總價: 25720",
+    "winner": 1,
+    "buildmate_avg_score": 7.166666666666667,
+    "gpt4o_avg_score": 7.0,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate配置較佳，效能更強，但gpt4o性價比更高。兩者散熱皆需注意。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o在預算內提供均衡效能; BuildMate超出預算，且電源供應器選擇不合理。"
+        },
+        "Agent3": {
+          "gpt4o_score": 6,
+          "buildmate_score": 8,
+          "reason": "BuildMate更符合長期玩GTA V的需求，gpt4o略顯不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate效能更佳，但電源選擇過剩。gpt4o性價比高，但GPU略弱。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比高，滿足需求且預算控制佳。BuildMate電源過剩，記憶體價格異常。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o性價比高，滿足需求。BuildMate雖效能佳，但電源和記憶體選擇不合理。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 20,
+    "question": "預算45000元，需要一台能在高畫質下跑Modern Warfare II的電腦，GPU性能非常重要。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 9000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3000\nMemory: 金士頓 HyperX Fury 16GB DDR4 | price: 4500\nGPU: 微星 RTX 3060 Ti | price: 15500\nStorage: 威剛 SX8200 Pro NVMe SSD | price: 2990\nPower Supply: 海韻Power Pro 2000 | price: 1999\nCase: 全漢 H500 | price: 1500\nCase Fan: 聯力 Ultra Silent Fan | price: 499\n總價: 38988",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600 | price: 7490\nMotherboard: 華碩 TUF Gaming B650-PLUS (ATX/DDR5) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5200 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 金牌全模組電源 | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1490\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 37930",
+    "winner": 0,
+    "buildmate_avg_score": 7.333333333333333,
+    "gpt4o_avg_score": 7.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o在CPU和平台選擇更新，效能更好。BuildMate選用3060Ti但CPU較舊，性價比略低。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "考量預算與遊戲需求，BuildMate的3060Ti顯著提升遊戲效能，更符合需求。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的3060Ti更符合高畫質遊戲需求，雖然CPU較舊，但整體性價比更高。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 7,
+          "reason": "兩者各有優劣，gpt4o平台較新但GPU較弱，BuildMate GPU較強但CPU平台較舊。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o新平台CPU效能較佳，整體更均衡，價格也略低。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o新平台CPU效能較佳，整體更均衡，價格也略低。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 21,
+    "question": "預算35000元，想組一台能高品質運行The Witcher 3的電腦，GPU和內存要足夠充裕。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 金士頓 FURY Beast系列記憶體 | price: 6000\nGPU: 微星 RTX 3060 Ventus 2X | price: 17000\nStorage: 威剛 XPG SX8200 Pro 1TB SSD | price: 3999\nPower Supply: 華碩 PowerMax 3000 | price: 3000\nCase: 全漢 H500 | price: 2000\nCase Fan: 威剛 Xtreme Fan系列 | price: 999\n總價: 47497",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600X | price: 6990\nMotherboard: 華碩 TUF Gaming B650-PLUS (AM5/ATX) | price: 4990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10990\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 3290\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 35320",
+    "winner": 0,
+    "buildmate_avg_score": 3.5,
+    "gpt4o_avg_score": 8.666666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o價格合理，零件均衡，散熱有考慮。BuildMate價格過高，B550主機板不適合，記憶體規格不明。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡，價格合理。BuildMate CPU及GPU價格過高，B550主機板不適用Ryzen 5 7600X。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o價格合理，配置均衡。BuildMate價格過高，B550主機板不適用，記憶體規格不明。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，價格合理。BuildMate CPU/GPU價格過高，B550主機板不適用。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡合理，價格控制得宜。BuildMate CPU/GPU價格過高，且B550主機板不適用。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o價格合理，配置均衡，滿足需求。BuildMate價格過高，且B550主機板不適用。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 22,
+    "question": "預算40000元左右，需要一台可流暢跑Elden Ring的電腦，強大的GPU與多核心CPU很重要。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2900\nMemory: 金士頓 FURY Beast系列記憶體 | price: 5500\nGPU: 微星 GeForce RTX 3060 | price: 14500\nStorage: 威剛 SX8200 Pro SSD | price: 2700\nPower Supply: 華碩 Power X200 | price: 1999\nCase: 全漢F360 RGB機殼 | price: 1500\nCase Fan: 威剛 Xtreme Fan 500 | price: 499\n總價: 40498",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 7490\nMotherboard: 華碩 TUF Gaming B650-PLUS | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce RTX 3060 Ti | price: 13900\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 | price: 2990\nPower Supply: Seasonic Focus GX-750 (750W) 金牌 | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 36430",
+    "winner": 0,
+    "buildmate_avg_score": 5.166666666666667,
+    "gpt4o_avg_score": 8.5,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o散熱和電源較佳，整體均衡。BuildMate記憶體價格異常，電源較弱。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o電源較佳，價格合理。BuildMate CPU、記憶體價格異常，電源不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡且在預算內。BuildMate CPU、記憶體價格異常，電源瓦數不足。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，電源穩定。BuildMate CPU、記憶體價格異常高，電源瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，價格合理。BuildMate CPU、記憶體溢價嚴重，電源品質堪憂。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，價格合理。BuildMate CPU、記憶體溢價，電源不足。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 23,
+    "question": "預算25000元，希望有台能流暢玩Dota 2的電腦，CPU和GPU配置需均衡。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 7600X | price: 11000\nMotherboard: 技嘉 B550 AORUS Elite | price: 2999\nMemory: 金士頓 Fury 系列內存 | price: 5500\nGPU: 微星 GeForce RTX 3060 Ti | price: 15000\nStorage: 三星970 EVO Plus M.2 NVMe SSD | price: 3999\nPower Supply: 海韻 Power X3000 | price: 3000\nCase: 全漢 H500 | price: 1999\nCase Fan: 聯力 Silent Breeze Fan 120 | price: 1000\n總價: 44497",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) | price: 3890\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 1890\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 6490\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Cooler Master MWE Gold 650W | price: 2490\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: ARCTIC P12 PWM PST 120mm | price: 490\n總價: 24520",
+    "winner": 0,
+    "buildmate_avg_score": 3.6666666666666665,
+    "gpt4o_avg_score": 7.833333333333333,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡且符合預算; BuildMate超出預算，記憶體價格異常，且CPU/GPU搭配不均衡。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡且符合預算; BuildMate超出預算，記憶體價格異常，且CPU/GPU搭配不均衡。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡且符合預算; BuildMate超出預算，記憶體價格異常，且CPU/GPU搭配不均衡。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o符合預算且CPU/GPU搭配合理; BuildMate嚴重超出預算，記憶體價格異常。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o在預算內合理配置; BuildMate嚴重超支且記憶體價格不合理。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o配置均衡，價格合理; BuildMate嚴重超支，記憶體價格異常。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 24,
+    "question": "預算30000元，要一台適合玩CS2的電腦，最好能搭配高刷新率螢幕並有足夠GPU性能。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8500\nMotherboard: 技嘉 B550 AORUS Elite | price: 2999\nMemory: 美光 Crucial Ballistix 3200MHz | price: 4500\nGPU: 微星 RTX 3060 Ti | price: 17900\nStorage: 威剛 XPG SX8200 Pro NVMe SSD | price: 3500\nPower Supply: 海韻 PowerPro 2000 | price: 2000\nCase: 酷碼X1機殼 | price: 1500\nCase Fan: 威剛 ARGB 120mm RGB Fan | price: 500\n總價: 41399",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5690\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI (AM5/DDR5/M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1890\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 10900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1790\nPower Supply: Seasonic Focus GX-650 (650W) 80 PLUS Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 29330",
+    "winner": 0,
+    "buildmate_avg_score": 4.0,
+    "gpt4o_avg_score": 7.833333333333333,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格合理，零件均衡，散熱考量較佳。BuildMate部分價格過高且CPU主機板不相容。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o在預算內，零件均衡。BuildMate超出預算，CPU價格過高。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o在預算內，零件均衡。BuildMate超出預算，且記憶體價格異常。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡，價格合理。BuildMate CPU、記憶體、顯卡價格異常過高，且電源瓦數不符需求。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o合理搭配，價格控制得宜。BuildMate顯卡溢價嚴重，記憶體和CPU價格異常。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o價格合理，效能符合CS2需求。BuildMate嚴重超出預算，且顯卡、CPU價格異常。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 25,
+    "question": "預算約50000元，需要一台能跑Unity遊戲開發的電腦，要有足以支撐即時3D預覽的強勁GPU。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 9500\nMotherboard: 技嘉 B550 AORUS ELITE | price: 3000\nMemory: 金士頓 Fury Beast 16GB DDR4 | price: 6000\nGPU: 微星 GeForce RTX 3060 Ti | price: 17900\nStorage: 威剛 SX8200 Pro M.2 NVMe SSD | price: 3800\nPower Supply: 華碩Power Pro 2500 | price: 2500\nCase: 酷碼 KUMA-1500 | price: 1500\nCase Fan: 威剛 X系列冷卻風扇 | price: 999\n總價: 45199",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5790\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 | price: 2390\nGPU: NVIDIA GeForce RTX 3060 12GB | price: 13900\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1790\nPower Supply: Seasonic Focus GX-650, 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 32930",
+    "winner": 0,
+    "buildmate_avg_score": 5.5,
+    "gpt4o_avg_score": 8.666666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格合理，均衡配置。BuildMate部分價格偏高，CPU記憶體選擇不佳。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o價格合理，效能均衡。BuildMate記憶體價格過高，電源供應器瓦數不足。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 6,
+          "reason": "gpt4o在預算內提供均衡配置。BuildMate記憶體價格過高，且電源供應器瓦數不足以支援3060Ti。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，價格合理。BuildMate CPU、記憶體價格異常，電源瓦數不足。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，配置合理。BuildMate CPU、記憶體價格虛高，電源瓦數不足以支援3060Ti。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 5,
+          "reason": "gpt4o性價比高，滿足需求。BuildMate CPU、記憶體價格異常，電源瓦數不足以支援3060Ti。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 26,
+    "question": "預算約30000元，希望組一台能穩定執行Visual Studio開發環境的電腦，多核心CPU很有幫助。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 11500\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 美光 Crucial Ballistix | price: 5800\nGPU: 微星 GeForce RTX 3060 Ti | price: 15000\nStorage: 威剛 XPG SX8200 Pro NVMe SSD | price: 4000\nPower Supply: 華碩強力900 | price: 3000\nCase: 全漢H500 | price: 1999\nCase Fan: 聯力 UltraCool 120 | price: 1999\n總價: 46297",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 7600 | price: 7490\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI (AM5/DDR5/M-ATX) | price: 3990\nMemory: Corsair Vengeance 16GB (2x8GB) DDR5-5600 | price: 2490\nGPU: NVIDIA GeForce GTX 1650 4GB | price: 4990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W/80+ Gold) | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 26020",
+    "winner": 0,
+    "buildmate_avg_score": 4.333333333333333,
+    "gpt4o_avg_score": 7.666666666666667,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o在預算內，均衡配置。BuildMate超預算，且記憶體規格不明。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o在預算內，效能均衡。BuildMate超出預算，顯卡過強。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o符合預算與需求。BuildMate超預算，且顯卡對程式開發非必要。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o均衡，符合預算。BuildMate顯卡過強，記憶體規格模糊，價格超預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 5,
+          "reason": "gpt4o配置均衡，價格合理。BuildMate顯卡過強，記憶體規格與價格不匹配，超出預算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o符合預算和需求。BuildMate顯卡過強，記憶體規格不明，超出預算。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 27,
+    "question": "預算25000元，需要一台能流暢跑Eclipse做軟體開發的電腦，高速儲存和多核CPU不可或缺。",
+    "buildmate_recommendation": "CPU: Intel Core i5-12600K | price: 11000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 金士頓 FURY 系列記憶體 | price: 4000\nGPU: 技嘉 GeForce RTX 3060 Ti | price: 14500\nStorage: 威剛 SX8200 Pro NVMe SSD | price: 3500\nPower Supply: 海韻PowerPro 2500 | price: 2500\nCase: 全漢 H500 | price: 1990\nCase Fan: 威剛 Xtreme Fan 120 | price: 1500\n總價: 41989",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 5990\nMotherboard: 華碩 TUF Gaming B550M-PLUS (Wi-Fi) (M-ATX) | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 5790\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 | price: 1990\nPower Supply: Seasonic Focus GX-650 (650W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 24120",
+    "winner": 0,
+    "buildmate_avg_score": 3.5,
+    "gpt4o_avg_score": 8.666666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o符合預算且均衡；BuildMate超預算且CPU/GPU搭配不合理。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 3,
+          "reason": "gpt4o在預算內提供均衡效能;BuildMate嚴重超支且GPU選擇不符需求。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡且符合預算;BuildMate超預算，且GPU效能過剩。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 9,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡，符合預算和開發需求;BuildMate超預算，GPU選擇過剩。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o在預算內提供均衡效能;BuildMate嚴重超支，且GPU效能過剩。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o符合預算且規格均衡;BuildMate嚴重超預算，且GPU效能過剩。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 28,
+    "question": "預算35000元，需要一台能快速執行Android Studio的電腦，有足夠內存和不錯CPU性能。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 8000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 2999\nMemory: 美光 Crucial Ballistix 16GB DDR4 | price: 5500\nGPU: 微星 RTX 3060 Ti | price: 14900\nStorage: 威剛 XPG SX8200 Pro SSD | price: 3999\nPower Supply: 海韻Power Pro 2000 | price: 1999\nCase: 全漢H500 | price: 1500\nCase Fan: 威剛 FAN-500 | price: 500\n總價: 39397",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 5 5600X | price: 4990\nMotherboard: 華碩 TUF GAMING B550M-PLUS | price: 3290\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200 | price: 1990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6990\nStorage: Samsung 970 EVO Plus 500GB NVMe M.2 SSD | price: 2490\nPower Supply: Cooler Master MWE 650W 80+ Bronze | price: 1990\nCase: Deepcool MATREXX 30 | price: 1290\nCase Fan: Cooler Master SickleFlow 120 V2 | price: 590\n總價: 23620",
+    "winner": 0,
+    "buildmate_avg_score": 3.6666666666666665,
+    "gpt4o_avg_score": 8.166666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 4,
+          "reason": "gpt4o價格合理，效能均衡。BuildMate超出預算，部分零件價格異常，且電源過剩。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o在預算內，效能均衡。BuildMate超出預算，且電源明顯過剩。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡且符合預算。BuildMate超出預算，記憶體和電源明顯過剩。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 4,
+          "reason": "gpt4o均衡，符合預算且滿足需求。BuildMate嚴重超出預算，且電源過剩。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o性價比高，符合預算。BuildMate過於昂貴，且電源和記憶體價格異常。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 3,
+          "reason": "gpt4o在預算內，效能符合開發需求。BuildMate超出預算，且GPU及記憶體過剩。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 29,
+    "question": "預算45000元，希望組一台適合Docker多環境執行的電腦，需要大內存和高速CPU來同時跑多個容器。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 7 5800X | price: 11500\nMotherboard: 技嘉 B550 AORUS ELITE | price: 2999\nMemory: 美光 Crucial Ballistix 3200MHz 16GB (2x8GB) | price: 6000\nGPU: 微星 GeForce RTX 3060 Ti | price: 14500\nStorage: 威剛 XPG SX8200 Pro NVMe SSD | price: 3990\nPower Supply: 海韻 Power 2000X | price: 1999\nCase: 酷碼X-Case | price: 2000\nCase Fan: 聯力 Silent Breeze 120 | price: 900\n總價: 43888",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF Gaming B550M-PLUS | price: 3290\nMemory: Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200 | price: 3990\nGPU: NVIDIA GeForce GTX 1660 Super | price: 6490\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3290\nPower Supply: Seasonic Focus GX-750, 750W 80+ Gold | price: 3990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 34030",
+    "winner": 0,
+    "buildmate_avg_score": 7.444444444444445,
+    "gpt4o_avg_score": 7.777777777777778,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate顯示卡效能更佳，較符合多開容器需求，但價格逼近預算上限。gpt4o性價比更高。"
+        },
+        "Agent2": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate顯卡效能顯著提升，更適合多開容器，價格貼近預算。"
+        },
+        "Agent3": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX3060Ti更能滿足多開容器對於GPU的需求，價格也更接近預算。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 8,
+          "reason": "BuildMate的RTX 3060 Ti顯著提升Docker多環境運算效能，但更接近預算上限。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比更高，BuildMate顯卡雖強但超出預算，記憶體價格異常。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比高，符合預算且效能足夠。BuildMate記憶體價格異常，超出預算。"
+        }
+      },
+      {
+        "round_number": 3,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比高，符合預算。BuildMate顯卡雖強但記憶體價格異常，超出預算。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比高，符合預算。BuildMate記憶體價格異常偏高。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o性價比高，符合預算。BuildMate記憶體價格異常偏高，不合理。"
+        }
+      }
+    ]
+  },
+  {
+    "question_id": 30,
+    "question": "預算50000元，需要一台能流暢執行VMware Workstation虛擬化的電腦，內存和CPU虛擬化能力需很強。",
+    "buildmate_recommendation": "CPU: AMD Ryzen 5 5600X | price: 10000\nMotherboard: 華碩 TUF Gaming B550-PLUS | price: 3000\nMemory: 美光 Crucial Ballistix 6000MHz | price: 6000\nGPU: 微星 GeForce RTX 3060 Ti | price: 14800\nStorage: 威剛 XPG SX8200 Pro NVMe M.2 SSD | price: 3500\nPower Supply: 海韻Power 2000 | price: 1999\nCase: 全漢 H500 | price: 1999\nCase Fan: 威剛 XFan 120 | price: 999\n總價: 42297",
+    "gpt4o_recommendation": "CPU: AMD Ryzen 7 5800X | price: 10900\nMotherboard: 華碩 TUF GAMING B650M-PLUS WIFI (AM5/DDR5/M-ATX) | price: 3990\nMemory: Corsair Vengeance LPX 16GB (2 x 8GB) DDR5-5600 | price: 2990\nGPU: NVIDIA GeForce GTX 1660 Super 6GB | price: 6990\nStorage: Samsung 970 EVO Plus 1TB NVMe M.2 SSD | price: 3490\nPower Supply: Seasonic Focus GX-750 (750W) 80+ Gold | price: 2990\nCase: Cooler Master MasterBox Q300L | price: 1290\nCase Fan: Noctua NF-P12 redux-1700 PWM | price: 790\n總價: 33430",
+    "winner": 0,
+    "buildmate_avg_score": 6.5,
+    "gpt4o_avg_score": 8.166666666666666,
+    "rounds": [
+      {
+        "round_number": 1,
+        "Agent1": {
+          "gpt4o_score": 7,
+          "buildmate_score": 6,
+          "reason": "gpt4o在CPU/記憶體選擇更利於虛擬化，BuildMate顯卡較強但CPU略遜。"
+        },
+        "Agent2": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o的5800X和DDR5-5600更適合虛擬化，價格更低。"
+        },
+        "Agent3": {
+          "gpt4o_score": 8,
+          "buildmate_score": 6,
+          "reason": "gpt4o更注重CPU/記憶體效能，符合虛擬化需求且價格合理。"
+        }
+      },
+      {
+        "round_number": 2,
+        "Agent1": {
+          "gpt4o_score": 8,
+          "buildmate_score": 7,
+          "reason": "gpt4o CPU/記憶體更佳，整體性價比高，BuildMate顯卡雖強但非必要。"
+        },
+        "Agent2": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o以更低價格，在CPU和記憶體上取得更佳VM效能。"
+        },
+        "Agent3": {
+          "gpt4o_score": 9,
+          "buildmate_score": 7,
+          "reason": "gpt4o在CPU和記憶體選擇上更符合虛擬化需求，價格也更具優勢。"
+        }
+      }
+    ]
+  }
+]

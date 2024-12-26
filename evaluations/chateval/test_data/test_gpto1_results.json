@@ -1,0 +1,82 @@
+[
+    {
+        "question_id": 1,
+        "question": "請問30000元內能組一台什麼樣的主機，主要是玩LOL和看Netflix用？",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"MSI B450M PRO-VDH MAX\", \"price\": \"3000\"}, \"Case\": {\"name\": \"Cooler Master MasterBox Q300L\", \"price\": \"1200\"}, \"CPU\": {\"name\": \"AMD Ryzen 5 5600G\", \"price\": \"7500\"}, \"GPU\": {\"name\": \"NVIDIA GeForce GTX 1650\", \"price\": \"8000\"}, \"Memory\": {\"name\": \"Corsair Vengeance LPX 16GB (2 x 8GB) DDR4 3200MHz\", \"price\": \"2000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 500GB NVMe SSD\", \"price\": \"1800\"}, \"Power\": {\"name\": \"Corsair CV450 450W 80 PLUS Bronze\", \"price\": \"1500\"}, \"Fan\": {\"name\": \"Cooler Master Hyper 212 LED\", \"price\": \"1200\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-E-CSM(DDR5)(M-ATX/Realtek 1Gb/註冊四年/2DIMM)\", \"price\": \"2990\"}, \"Case\": {\"name\": \"銀欣 RL08 紅黑\", \"price\": \"1290\"}, \"CPU\": {\"name\": \"Intel i5-14400F\", \"price\": \"5400\"}, \"GPU\": {\"name\": \"Acer Nitro Intel ARC B580 OC 12GB\", \"price\": \"8690\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5-5600/CL46 (AD5U560016G-S)【雙參數】\", \"price\": \"1269\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製\", \"price\": \"1499\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保 送12+4pin模組線！\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"MSI MEG SILENT GALE P12 靜音風扇 /HDB軸承/2000RPM/抗震襯墊/PWM/六年保\", \"price\": \"790\"}}"
+        }
+    },
+    {
+        "question_id": 2,
+        "question": "有推薦的組合嗎？預算大概在50000元，要能處理攝影後製和輕遊戲，如：軒轅劍7。",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS TUF Gaming B550-PLUS\", \"price\": \"4000\"}, \"Case\": {\"name\": \"Fractal Design Meshify C\", \"price\": \"3000\"}, \"CPU\": {\"name\": \"AMD Ryzen 7 5800X\", \"price\": \"10500\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 3060 Ti\", \"price\": \"14000\"}, \"Memory\": {\"name\": \"G.Skill TridentZ 32GB (2x16GB) DDR4-3200\", \"price\": \"4000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 1TB NVMe SSD\", \"price\": \"2500\"}, \"Power\": {\"name\": \"Corsair RM650x 650W 80+ Gold\", \"price\": \"3500\"}, \"Fan\": {\"name\": \"Noctua NH-U12S\", \"price\": \"2200\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRO WS W680-ACE\", \"price\": \"9990\"}, \"Case\": {\"name\": \"銀欣 RL08 紅黑\", \"price\": \"1290\"}, \"CPU\": {\"name\": \"Intel i7-14700F\", \"price\": \"9700\"}, \"GPU\": {\"name\": \"Acer Nitro Intel ARC B580 OC 12GB\", \"price\": \"8690\"}, \"Memory\": {\"name\": \"威剛 32GB(雙通16GB*2) DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"2699\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】\", \"price\": \"1499\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"Acer Predator Frostblade 120 風扇\", \"price\": \"390\"}}"
+        }
+    },
+    {
+        "question_id": 3,
+        "question": "碩士生研究用的電腦，預算約70000元，需要跑深度學習模型，有沒有建議配置？",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS TUF Gaming B650-PLUS\", \"price\": \"5000\"}, \"Case\": {\"name\": \"Fractal Design Meshify 2\", \"price\": \"3000\"}, \"CPU\": {\"name\": \"AMD Ryzen 9 7900X\", \"price\": \"15000\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 4070\", \"price\": \"22000\"}, \"Memory\": {\"name\": \"G.Skill TridentZ5 64GB (2x32GB) DDR5 5200MHz\", \"price\": \"10000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 2TB NVMe SSD\", \"price\": \"4000\"}, \"Power\": {\"name\": \"Corsair RM750x 750W 80+ Gold\", \"price\": \"4000\"}, \"Fan\": {\"name\": \"Noctua NH-D15\", \"price\": \"3500\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME B760M-A D4-CSM\", \"price\": \"3490\"}, \"Case\": {\"name\": \"華碩 Prime AP201 TG 黑\", \"price\": \"1990\"}, \"CPU\": {\"name\": \"Intel i7-14700F\", \"price\": \"9700\"}, \"GPU\": {\"name\": \"Acer Nitro Intel ARC B580 OC 12GB\", \"price\": \"8690\"}, \"Memory\": {\"name\": \"UMAX 單條32GB DDR5-6000/CL30【雙參數】\", \"price\": \"2899\"}, \"Storage\": {\"name\": \"美光Micron Crucial P3 Plus 1TB/Gen4 PCIe 4.0\", \"price\": \"1799\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"MSI MEG SILENT GALE P12 靜音風扇 /HDB軸承/2000RPM/抗震襯墊/PWM/六年保\", \"price\": \"790\"}}"
+        }
+    },
+    {
+        "question_id": 4,
+        "question": "預算大約20000元，尋求一台能寫報告和上網的簡易電腦，要求瀏覽器多開流暢。",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"MSI B450M PRO-VDH MAX\", \"price\": \"3000\"}, \"Case\": {\"name\": \"Cooler Master MasterBox Q300L\", \"price\": \"1200\"}, \"CPU\": {\"name\": \"AMD Ryzen 5 5600G\", \"price\": \"7000\"}, \"GPU\": {\"name\": \"Integrated Radeon Graphics\", \"price\": \"0\"}, \"Memory\": {\"name\": \"G.Skill Aegis 16GB (2x8GB) DDR4-3200\", \"price\": \"2000\"}, \"Storage\": {\"name\": \"Crucial P2 500GB NVMe SSD\", \"price\": \"1500\"}, \"Power\": {\"name\": \"Corsair CV450 450W 80+ Bronze\", \"price\": \"1500\"}, \"Fan\": {\"name\": \"AMD Wraith Stealth (Included with CPU)\", \"price\": \"0\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-K-CSM(DDR5)\", \"price\": \"2890\"}, \"Case\": {\"name\": \"華碩 A21 黑\", \"price\": \"1490\"}, \"CPU\": {\"name\": \"Intel i5-14400F\", \"price\": \"5400\"}, \"GPU\": {\"name\": \"INTEL 原廠 ARC B580 12G\", \"price\": \"8990\"}, \"Memory\": {\"name\": \"UMAX 單條16GB DDR5-4800/CL40 支援 XMP\", \"price\": \"1150\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】\", \"price\": \"899\"}, \"Power\": {\"name\": \"全漢 HYDRO GT PRO 1000W 雙8/金牌/半模/全日系/10年保\", \"price\": \"3690\"}, \"Fan\": {\"name\": \"安耐美 靜蝠 12cm 磁力滾珠軸承\", \"price\": \"230\"}}"
+        }
+    },
+    {
+        "question_id": 5,
+        "question": "想請問80000元左右，能組出來什麼級別的遊戲主機？想玩些新遊戲，畫質要好。",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS TUF Gaming B650-PLUS\", \"price\": \"6000\"}, \"Case\": {\"name\": \"Fractal Design Meshify 2\", \"price\": \"3500\"}, \"CPU\": {\"name\": \"AMD Ryzen 7 7800X3D\", \"price\": \"16000\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 4080\", \"price\": \"38000\"}, \"Memory\": {\"name\": \"G.Skill TridentZ5 32GB (2x16GB) DDR5-6000\", \"price\": \"6000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 1TB NVMe SSD\", \"price\": \"2500\"}, \"Power\": {\"name\": \"Corsair RM850x 850W 80+ Gold\", \"price\": \"5000\"}, \"Fan\": {\"name\": \"Noctua NH-U12S\", \"price\": \"2200\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME B760M-F D4-CSM\", \"price\": \"2590\"}, \"Case\": {\"name\": \"華碩 A21 黑\", \"price\": \"1490\"}, \"CPU\": {\"name\": \"Intel i5-14600KF\", \"price\": \"7400\"}, \"GPU\": {\"name\": \"微星 RTX3060 VENTUS 2X 12G OC\", \"price\": \"8990\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】\", \"price\": \"1499\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"華碩 AR120 ARGB PWM 風扇\", \"price\": \"299\"}}"
+        }
+    },
+    {
+        "question_id": 6,
+        "question": "工作需要，我要一台能跑Solidworks和AutoCAD的工作站，預算大概60000元，有建議嗎？",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS ProArt B760-Creator D4\", \"price\": \"7000\"}, \"Case\": {\"name\": \"Fractal Design Meshify C\", \"price\": \"3000\"}, \"CPU\": {\"name\": \"Intel Core i7-13700K\", \"price\": \"13000\"}, \"GPU\": {\"name\": \"NVIDIA RTX A2000\", \"price\": \"20000\"}, \"Memory\": {\"name\": \"G.Skill Ripjaws V 64GB (2x32GB) DDR4-3200\", \"price\": \"6000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 2TB NVMe SSD\", \"price\": \"4000\"}, \"Power\": {\"name\": \"Corsair RM650x 650W 80+ Gold\", \"price\": \"3500\"}, \"Fan\": {\"name\": \"Noctua NH-U12S\", \"price\": \"2500\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRO WS W680-ACE\", \"price\": \"9990\"}, \"Case\": {\"name\": \"Montech SKY TWO 黑\", \"price\": \"1890\"}, \"CPU\": {\"name\": \"Intel i9-14900F\", \"price\": \"14900\"}, \"GPU\": {\"name\": \"技嘉 RTX3060 WINDFORCE OC 12G(rev2.0)\", \"price\": \"8990\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製\", \"price\": \"1499\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"MSI MEG SILENT GALE P12 靜音風扇\", \"price\": \"790\"}}"
+        }
+    },
+    {
+        "question_id": 7,
+        "question": "有沒有推薦的遊戲主機配置？預算在45000元，想要玩 POE、APEX等槍戰、LOL。",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"MSI B550M PRO-VDH WIFI\", \"price\": \"4000\"}, \"Case\": {\"name\": \"Fractal Design Focus G\", \"price\": \"2000\"}, \"CPU\": {\"name\": \"AMD Ryzen 5 5600X\", \"price\": \"7500\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 3060 Ti\", \"price\": \"14000\"}, \"Memory\": {\"name\": \"G.Skill Ripjaws V 16GB (2x8GB) DDR4-3200\", \"price\": \"2000\"}, \"Storage\": {\"name\": \"WD Blue SN570 1TB NVMe SSD\", \"price\": \"2500\"}, \"Power\": {\"name\": \"Corsair RM650x 650W 80+ Gold\", \"price\": \"3500\"}, \"Fan\": {\"name\": \"Cooler Master Hyper 212 Black Edition\", \"price\": \"1500\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)\", \"price\": \"2890\"}, \"Case\": {\"name\": \"銀欣 RL08 紅黑\", \"price\": \"1290\"}, \"CPU\": {\"name\": \"Intel i5-14600K\", \"price\": \"7990\"}, \"GPU\": {\"name\": \"Acer Nitro Intel ARC B580 OC 12GB\", \"price\": \"8690\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】\", \"price\": \"1499\"}, \"Power\": {\"name\": \"全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保\", \"price\": \"4890\"}, \"Fan\": {\"name\": \"MSI MEG SILENT GALE P12 靜音風扇\", \"price\": \"790\"}}"
+        }
+    },
+    {
+        "question_id": 8,
+        "question": "預算約45000元，需要一台主要用來跑Adobe系列軟體的電腦，特別是Photoshop和After Effects。",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"MSI B550-A PRO\", \"price\": \"4000\"}, \"Case\": {\"name\": \"Fractal Design Focus G\", \"price\": \"2000\"}, \"CPU\": {\"name\": \"AMD Ryzen 7 5700X\", \"price\": \"9000\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 3060\", \"price\": \"13000\"}, \"Memory\": {\"name\": \"G.Skill Ripjaws V 32GB (2x16GB) DDR4-3200\", \"price\": \"4000\"}, \"Storage\": {\"name\": \"WD Blue SN570 1TB NVMe SSD\", \"price\": \"2000\"}, \"Power\": {\"name\": \"Corsair RM650x 650W 80+ Gold\", \"price\": \"3500\"}, \"Fan\": {\"name\": \"Cooler Master Hyper 212 Black Edition\", \"price\": \"1500\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相\", \"price\": \"2890\"}, \"Case\": {\"name\": \"華碩 A21 黑\", \"price\": \"1490\"}, \"CPU\": {\"name\": \"Intel i7-14700F\", \"price\": \"9700\"}, \"GPU\": {\"name\": \"華擎 ARC B580 Challenger 12G OC\", \"price\": \"9290\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】\", \"price\": \"1499\"}, \"Power\": {\"name\": \"Antec HCG1000(1000W)雙8/金牌/全模/全日系/智慧溫控風扇/10年保\", \"price\": \"3990\"}, \"Fan\": {\"name\": \"MONTECH AX120 PWM 黑 風扇/A.RGB/1600RPM/HDB軸/三年保\", \"price\": \"299\"}}"
+        }
+    },
+    {
+        "question_id": 9,
+        "question": "我需要一台適合股市分析的電腦，預算大概30000元，需要大量運算和多螢幕，有什麼好提議？",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS TUF Gaming B550-PLUS\", \"price\": \"4000\"}, \"Case\": {\"name\": \"Cooler Master MasterBox Q300L\", \"price\": \"1200\"}, \"CPU\": {\"name\": \"AMD Ryzen 7 5700G\", \"price\": \"9000\"}, \"GPU\": {\"name\": \"Integrated Radeon Graphics\", \"price\": \"0\"}, \"Memory\": {\"name\": \"G.Skill Ripjaws V 64GB (2x32GB) DDR4-3200\", \"price\": \"8000\"}, \"Storage\": {\"name\": \"Crucial P2 1TB NVMe SSD\", \"price\": \"2000\"}, \"Power\": {\"name\": \"Corsair CV650 650W 80+ Bronze\", \"price\": \"2000\"}, \"Fan\": {\"name\": \"Noctua NH-U12S\", \"price\": \"2500\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-K D4-CSM(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)6+1+1相\", \"price\": \"2890\"}, \"Case\": {\"name\": \"銀欣 RL08 紅黑\", \"price\": \"1290\"}, \"CPU\": {\"name\": \"Intel i7-14700F\", \"price\": \"9700\"}, \"GPU\": {\"name\": \"NVIDIA GTX 1660 Super\", \"price\": \"4990\"}, \"Memory\": {\"name\": \"威剛 單條16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU800 512G/2.5吋/讀:560M/寫:520M/TLC/DRAM快取/SMI/台灣製【五年】\", \"price\": \"1499\"}, \"Power\": {\"name\": \"全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保\", \"price\": \"4890\"}, \"Fan\": {\"name\": \"MSI MEG SILENT GALE P12 靜音風扇\", \"price\": \"790\"}}"
+        }
+    },
+    {
+        "question_id": 10,
+        "question": "想要組一台約65000元的電腦，主要用於VR遊戲和一般辦公，有沒有推薦配置？",
+        "response": {
+            "chatGPT o1": "{\"Mother board\": {\"name\": \"ASUS TUF Gaming B650-PLUS\", \"price\": \"6000\"}, \"Case\": {\"name\": \"Fractal Design Meshify 2\", \"price\": \"3500\"}, \"CPU\": {\"name\": \"AMD Ryzen 7 7800X3D\", \"price\": \"16000\"}, \"GPU\": {\"name\": \"NVIDIA GeForce RTX 4070 Ti\", \"price\": \"25000\"}, \"Memory\": {\"name\": \"G.Skill TridentZ5 32GB (2x16GB) DDR5-6000\", \"price\": \"6000\"}, \"Storage\": {\"name\": \"Samsung 970 EVO Plus 1TB NVMe SSD\", \"price\": \"2500\"}, \"Power\": {\"name\": \"Corsair RM850x 850W 80+ Gold\", \"price\": \"5000\"}, \"Fan\": {\"name\": \"Noctua NH-U12S\", \"price\": \"2000\"}}",
+            "BuildMate": "{\"Mother board\": {\"name\": \"華碩 PRIME H610M-K-CSM(DDR5)(M-ATX/1A1H/Realtek 1Gb/註冊四年/2DIMM)\", \"price\": \"2890\"}, \"Case\": {\"name\": \"SAMA SAK702 新鏡界(白)\", \"price\": \"1890\"}, \"CPU\": {\"name\": \"Intel i7-14700F\", \"price\": \"9700\"}, \"GPU\": {\"name\": \"華擎 ARC B580 Challenger 12G OC\", \"price\": \"9290\"}, \"Memory\": {\"name\": \"威剛 單條 16GB DDR5 6000 XPG Lancer Blade(矮版散熱片)/CL48黑【雙參數】\", \"price\": \"1349\"}, \"Storage\": {\"name\": \"威剛 Ultimate SU650 480G/2.5吋/讀:520M/寫:450M/TLC顆粒【三年保】\", \"price\": \"899\"}, \"Power\": {\"name\": \"全漢 HYDRO G PRO 1000W ATX3.0(PCIe 5.0) 雙8/金牌/全模/全日系/防潮塗層/10年保\", \"price\": \"4890\"}, \"Fan\": {\"name\": \"Acer Predator Frostblade 120 風扇\", \"price\": \"390\"}}"
+        }
+    }
+]

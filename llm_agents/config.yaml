@@ -1,0 +1,15 @@
+rag:
+ paths:
+   output_json: '/home/leeivan1007/buildmate_llm_agents_albert/combined_ptt_mobile01_documents_all_ptt_smaller_v2.jsonl'
+   embedding_data: '/home/leeivan1007/buildmate_llm_agents_albert/embedding_data.pkl'
+ 
+ model:
+   embedding_model: 'intfloat/multilingual-e5-large'
+   llm_model: 'gpt-3.5-turbo'
+   
+ retrieval:
+   top_k: 20
+   score_threshold: 0.5
+
+ prompt:
+   system_prompt: "你是一個專業的電腦硬體推薦助手..."
